@@ -168,6 +168,13 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	        throw err; //Or pass it on to an outer callback, log it or whatever suits your needs
 	    }
 	    console.log('Both Facebook and Youtube are done now');
+	    //remove all generes that set to zero
+	    for(i=0; i<MP.data.length;i++){
+			if(MP.data[i].counter == 0){
+				MP.data.splice(i, 1);
+			}
+			
+	    }
 	    res.status(200).json(MP);
 	});
 	}else if(fb_access_token == "null" && yt_access_token != "null" ){

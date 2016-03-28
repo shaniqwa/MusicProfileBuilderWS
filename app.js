@@ -93,5 +93,5 @@ var express = require('express'),
 
 
 
-	app.listen(process.env.PORT || 3000);
-	console.log("service is listening on port 3000");
+	app.listen(process.env.PORT || 8080);
+	console.log("service is listening on port 8080");
