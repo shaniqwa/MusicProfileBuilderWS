@@ -1,0 +1,7607 @@
+[
+{
+"name": "3rd wave ska",
+"related_to": [
+"3rd wave ska",
+"ska punk",
+"punk",
+"ska-punk",
+"under 2000 listeners",
+"rock"
+]
+},
+{
+"name": "60s pop",
+"related_to": [
+"60s pop",
+"oldies",
+"pop",
+"classic rock",
+"rock",
+"female vocalists"
+]
+},
+{
+"name": "77 style punk",
+"related_to": [
+"punk rock",
+"77 style punk",
+"rock",
+"punk 77",
+"77 punk",
+"oi"
+]
+},
+{
+"name": "80s",
+"related_to": [
+"pop",
+"rock",
+"new wave",
+"classic rock",
+"hard rock",
+"post-punk"
+]
+},
+{
+"name": "80s hair metal",
+"related_to": [
+"80s hair metal",
+"hair metal",
+"80s",
+"glam metal",
+"rock",
+"heavy metal"
+]
+},
+{
+"name": "80s hardcore",
+"related_to": [
+"hardcore punk",
+"hardcore",
+"punk",
+"punk rock",
+"skate punk",
+"straight edge"
+]
+},
+{
+"name": "80s metal",
+"related_to": [
+"80s metal",
+"hard rock",
+"hair metal",
+"80s",
+"metal",
+"thrash metal"
+]
+},
+{
+"name": "80s Pop",
+"related_to": [
+"80s",
+"pop",
+"new wave",
+"disco",
+"female vocalists",
+"rock"
+]
+},
+{
+"name": "80s rock",
+"related_to": [
+"rock",
+"hard rock",
+"80s",
+"classic rock",
+"hair metal",
+"metal"
+]
+},
+{
+"name": "8bit",
+"related_to": [
+"chiptune",
+"8-bit",
+"electronic",
+"under 2000 listeners",
+"8 bit",
+"electro"
+]
+},
+{
+"name": "90s pop",
+"related_to": [
+"pop",
+"90s",
+"female vocalists",
+"rock",
+"dance",
+"tasmin archer"
+]
+},
+{
+"name": "90s Rock",
+"related_to": [
+"90s rock",
+"90s",
+"alternative rock",
+"alternative",
+"hard rock",
+"grunge"
+]
+},
+{
+"name": "abstract hip-hop",
+"related_to": [
+"hip-hop",
+"underground hip-hop",
+"experimental",
+"trip-hop",
+"electronic",
+"experimental hip-hop"
+]
+},
+{
+"name": "Acid",
+"related_to": [
+"techno",
+"electronic",
+"acid techno",
+"idm",
+"acid house",
+"house"
+]
+},
+{
+"name": "acid house",
+"related_to": [
+"house",
+"acid",
+"electronic",
+"techno",
+"chicago house",
+"dance"
+]
+},
+{
+"name": "acid jazz",
+"related_to": [
+"jazz",
+"funk",
+"electronic",
+"chillout",
+"lounge",
+"downtempo"
+]
+},
+{
+"name": "Adult Alternative",
+"related_to": [
+"rock",
+"alternative",
+"pop",
+"female vocalists",
+"singer-songwriter",
+"mellow"
+]
+},
+{
+"name": "adult contemporary",
+"related_to": [
+"pop",
+"female vocalists",
+"rock",
+"british",
+"britpop",
+"soul"
+]
+},
+{
+"name": "afrobeat",
+"related_to": [
+"funk",
+"african",
+"jazz",
+"world",
+"africa",
+"nigeria"
+]
+},
+{
+"name": "Aggrotech",
+"related_to": [
+"industrial",
+"dark electro",
+"ebm",
+"harsh ebm",
+"electronic",
+"electro-industrial"
+]
+},
+{
+"name": "album rock",
+"related_to": [
+"album rock",
+"classic rock",
+"hard rock",
+"arena rock",
+"progressive rock",
+"prog-rock"
+]
+},
+{
+"name": "alt country",
+"related_to": [
+"alt-country",
+"americana",
+"country",
+"folk",
+"rock",
+"singer-songwriter"
+]
+},
+{
+"name": "alt rock",
+"related_to": [
+"rock",
+"alternative",
+"alternative rock",
+"indie",
+"indie rock",
+"singer-songwriter"
+]
+},
+{
+"name": "Alt-country",
+"related_to": [
+"americana",
+"country",
+"folk",
+"singer-songwriter",
+"indie",
+"rock"
+]
+},
+{
+"name": "alt-rock",
+"related_to": [
+"rock",
+"alternative",
+"indie",
+"alternative rock",
+"indie rock",
+"dark-folk"
+]
+},
+{
+"name": "alternative",
+"related_to": [
+"rock",
+"indie",
+"alternative rock",
+"indie rock",
+"female vocalists",
+"electronic"
+]
+},
+{
+"name": "Alternative and punk",
+"related_to": [
+"under 2000 listeners",
+"girl rock",
+"rock",
+"alternative rock",
+"hard rock",
+"punk"
+]
+},
+{
+"name": "alternative country",
+"related_to": [
+"country",
+"alt-country",
+"americana",
+"folk",
+"rock",
+"indie"
+]
+},
+{
+"name": "alternative dance",
+"related_to": [
+"electronic",
+"indie",
+"dance",
+"electronica",
+"synthpop",
+"pop"
+]
+},
+{
+"name": "alternative metal",
+"related_to": [
+"metal",
+"nu metal",
+"alternative rock",
+"rock",
+"hard rock",
+"alternative"
+]
+},
+{
+"name": "alternative pop",
+"related_to": [
+"alternative",
+"indie",
+"pop",
+"indie pop",
+"alternative rock",
+"rock"
+]
+},
+{
+"name": "alternative pop-rock",
+"related_to": [
+"indie",
+"rock",
+"russian rock",
+"pop",
+"russian",
+"alternative"
+]
+},
+{
+"name": "alternative rap",
+"related_to": [
+"alternative rap",
+"rap",
+"hip hop",
+"underground hip-hop",
+"alternative hip-hop",
+"underground rap"
+]
+},
+{
+"name": "alternative rock",
+"related_to": [
+"rock",
+"alternative",
+"indie",
+"indie rock",
+"hard rock",
+"grunge"
+]
+},
+{
+"name": "ambient",
+"related_to": [
+"electronic",
+"experimental",
+"chillout",
+"dark ambient",
+"instrumental",
+"drone"
+]
+},
+{
+"name": "ambient black metal",
+"related_to": [
+"ambient black metal",
+"atmospheric black metal",
+"depressive black metal",
+"dark ambient",
+"ambient",
+"metal"
+]
+},
+{
+"name": "ambient pop",
+"related_to": [
+"ambient",
+"electronic",
+"dream pop",
+"chillout",
+"experimental",
+"indie"
+]
+},
+{
+"name": "Ambient Techno",
+"related_to": [
+"ambient",
+"electronic",
+"techno",
+"idm",
+"minimal techno",
+"electronica"
+]
+},
+{
+"name": "American Punk",
+"related_to": [
+"american punk",
+"punk rock",
+"hardcore punk",
+"rock",
+"hardcore",
+"proto-punk"
+]
+},
+{
+"name": "anarcho punk",
+"related_to": [
+"punk",
+"anarcho-punk",
+"hardcore punk",
+"punk rock",
+"crust",
+"hardcore"
+]
+},
+{
+"name": "anarcho-punk",
+"related_to": [
+"punk",
+"punk rock",
+"hardcore punk",
+"crust",
+"hardcore",
+"anarcho punk"
+]
+},
+{
+"name": "angura kei",
+"related_to": [
+"visual kei",
+"japanese",
+"j-rock",
+"electronic",
+"eroguro",
+"rock"
+]
+},
+{
+"name": "anti-folk",
+"related_to": [
+"folk",
+"indie",
+"lo-fi",
+"singer-songwriter",
+"acoustic",
+"alternative"
+]
+},
+{
+"name": "antifolk",
+"related_to": [
+"indie",
+"folk",
+"anti-folk",
+"singer-songwriter",
+"lo-fi",
+"under 2000 listeners"
+]
+},
+{
+"name": "apocalyptic folk",
+"related_to": [
+"apocalyptic folk",
+"dark folk",
+"industrial",
+"martial industrial",
+"impossible for liberals to deal with",
+"neoclassical"
+]
+},
+{
+"name": "arena rock",
+"related_to": [
+"classic rock",
+"arena rock",
+"hard rock",
+"album rock",
+"progressive rock",
+"80s"
+]
+},
+{
+"name": "art punk",
+"related_to": [
+"post-punk",
+"punk",
+"indie",
+"alternative",
+"noise rock",
+"punk rock"
+]
+},
+{
+"name": "art rock",
+"related_to": [
+"art rock",
+"rock",
+"classic rock",
+"progressive",
+"experimental",
+"indie"
+]
+},
+{
+"name": "art-rock",
+"related_to": [
+"progressive rock",
+"rock",
+"russian rock",
+"experimental",
+"indie",
+"russian"
+]
+},
+{
+"name": "artcore",
+"related_to": [
+"post-metal",
+"sludge",
+"post-rock",
+"experimental",
+"hardcore",
+"post-hardcore"
+]
+},
+{
+"name": "atmospheric ambient",
+"related_to": [
+"atmospheric ambient",
+"dark ambient",
+"atmospheric",
+"drone",
+"classic horror",
+"deep ambient"
+]
+},
+{
+"name": "atmospheric black metal",
+"related_to": [
+"black metal",
+"depressive black metal",
+"ambient black metal",
+"post-black metal",
+"ambient",
+"dark ambient"
+]
+},
+{
+"name": "Atmospheric metal",
+"related_to": [
+"progressive metal",
+"doom metal",
+"gothic metal",
+"metal",
+"atmospheric",
+"black metal"
+]
+},
+{
+"name": "Avant-Garde",
+"related_to": [
+"experimental",
+"jazz",
+"noise",
+"free jazz",
+"electronic",
+"contemporary classical"
+]
+},
+{
+"name": "Avant-Garde Jazz",
+"related_to": [
+"jazz",
+"free jazz",
+"avant-garde",
+"free improvisation",
+"experimental",
+"juma"
+]
+},
+{
+"name": "Avant-garde Metal",
+"related_to": [
+"progressive metal",
+"avant-garde",
+"black metal",
+"experimental",
+"metal",
+"avant-garde black metal"
+]
+},
+{
+"name": "Avant-Prog",
+"related_to": [
+"progressive rock",
+"avant-garde",
+"rio",
+"experimental",
+"rock in opposition",
+"experimental rock"
+]
+},
+{
+"name": "Avantgarde Metal",
+"related_to": [
+"black metal",
+"progressive metal",
+"metal",
+"avant-garde metal",
+"avant-garde",
+"experimental"
+]
+},
+{
+"name": "baroque",
+"related_to": [
+"classical",
+"bach",
+"renaissance",
+"early music",
+"piano",
+"harpsichord"
+]
+},
+{
+"name": "baroque pop",
+"related_to": [
+"60s",
+"psychedelic",
+"pop",
+"indie",
+"rock",
+"folk"
+]
+},
+{
+"name": "bass",
+"related_to": [
+"jazz",
+"dubstep",
+"electronic",
+"funk",
+"fusion",
+"instrumental"
+]
+},
+{
+"name": "batcave",
+"related_to": [
+"deathrock",
+"post-punk",
+"gothic rock",
+"goth",
+"gothic",
+"death rock"
+]
+},
+{
+"name": "battle metal",
+"related_to": [
+"folk metal",
+"viking metal",
+"power metal",
+"heavy metal",
+"metal",
+"epic metal"
+]
+},
+{
+"name": "beatdown",
+"related_to": [
+"beatdown",
+"beatdown hardcore",
+"deathcore",
+"metalcore",
+"moshcore",
+"straight edge"
+]
+},
+{
+"name": "beats",
+"related_to": [
+"hip-hop",
+"hip hop",
+"electronic",
+"instrumental",
+"instrumental hip-hop",
+"experimental"
+]
+},
+{
+"name": "bebop",
+"related_to": [
+"bebop",
+"saxophone",
+"cool jazz",
+"piano",
+"trumpet",
+"hard bop"
+]
+},
+{
+"name": "Belgian music",
+"related_to": [
+"belgian",
+"belgium",
+"rock",
+"singer-songwriter",
+"pop",
+"alternative"
+]
+},
+{
+"name": "Big Band",
+"related_to": [
+"jazz",
+"swing",
+"instrumental",
+"oldies",
+"40s",
+"easy listening"
+]
+},
+{
+"name": "big beat",
+"related_to": [
+"electronic",
+"electronica",
+"breakbeat",
+"dance",
+"techno",
+"house"
+]
+},
+{
+"name": "bitpop",
+"related_to": [
+"electronic",
+"chiptune",
+"8-bit",
+"synthpop",
+"swedish",
+"8bit"
+]
+},
+{
+"name": "black death metal",
+"related_to": [
+"death metal",
+"black death metal",
+"blackened death metal",
+"metal",
+"under 2000 listeners",
+"bestial black metal"
+]
+},
+{
+"name": "black metal",
+"related_to": [
+"metal",
+"death metal",
+"raw black metal",
+"atmospheric black metal",
+"depressive black metal",
+"melodic black metal"
+]
+},
+{
+"name": "black music",
+"related_to": [
+"soul",
+"rnb",
+"hip-hop",
+"grime",
+"hip hop",
+"pop"
+]
+},
+{
+"name": "black y pagan metal",
+"related_to": [ ]
+},
+{
+"name": "Blackened Death Metal",
+"related_to": [
+"death metal",
+"black metal",
+"metal",
+"melodic death metal",
+"black death metal",
+"brutal death metal"
+]
+},
+{
+"name": "bluegrass",
+"related_to": [
+"country",
+"folk",
+"americana",
+"banjo",
+"acoustic",
+"alt-country"
+]
+},
+{
+"name": "blues",
+"related_to": [
+"blues rock",
+"rock",
+"jazz",
+"guitar",
+"classic rock",
+"soul"
+]
+},
+{
+"name": "blues rock",
+"related_to": [
+"blues",
+"rock",
+"classic rock",
+"guitar",
+"hard rock",
+"southern rock"
+]
+},
+{
+"name": "blues-rock",
+"related_to": [
+"blues",
+"rock",
+"blues rock",
+"classic rock",
+"hard rock",
+"guitar"
+]
+},
+{
+"name": "bop",
+"related_to": [
+"bop",
+"saxophone",
+"bebop",
+"hard bop",
+"piano",
+"trumpet"
+]
+},
+{
+"name": "Bossa Nova",
+"related_to": [
+"jazz",
+"brasil",
+"brazilian",
+"mpb",
+"female vocalists",
+"samba"
+]
+},
+{
+"name": "brazilian rock",
+"related_to": [
+"rock",
+"brazilian",
+"brasil",
+"alternative rock",
+"00s",
+"indie rock"
+]
+},
+{
+"name": "breakbeat",
+"related_to": [
+"electronic",
+"breaks",
+"electronica",
+"drum and bass",
+"electro",
+"big beat"
+]
+},
+{
+"name": "breakcore",
+"related_to": [
+"electronic",
+"idm",
+"experimental",
+"under 2000 listeners",
+"noise",
+"drum and bass"
+]
+},
+{
+"name": "brit pop",
+"related_to": [
+"indie",
+"rock",
+"britpop",
+"pop",
+"british",
+"indie rock"
+]
+},
+{
+"name": "brit rock",
+"related_to": [
+"rock",
+"indie",
+"indie rock",
+"alternative",
+"britpop",
+"british"
+]
+},
+{
+"name": "Brit-pop",
+"related_to": [
+"indie",
+"rock",
+"britpop",
+"indie rock",
+"alternative",
+"under 2000 listeners"
+]
+},
+{
+"name": "british folk",
+"related_to": [
+"british folk",
+"folk rock",
+"english folk",
+"singer-songwriter",
+"folk-rock",
+"female vocalists"
+]
+},
+{
+"name": "british invasion",
+"related_to": [
+"british invasion",
+"classic rock",
+"rock",
+"oldies",
+"british",
+"pop"
+]
+},
+{
+"name": "British Metal",
+"related_to": [
+"metal",
+"british metal",
+"hard rock",
+"nwobhm",
+"classic rock",
+"iron maiden"
+]
+},
+{
+"name": "British Punk",
+"related_to": [
+"british punk",
+"punk rock",
+"british",
+"oi",
+"uk82",
+"rock"
+]
+},
+{
+"name": "british rock",
+"related_to": [
+"rock",
+"classic rock",
+"hard rock",
+"british",
+"indie",
+"heavy metal"
+]
+},
+{
+"name": "britpop",
+"related_to": [
+"indie",
+"rock",
+"british",
+"alternative",
+"indie rock",
+"pop"
+]
+},
+{
+"name": "Britrock",
+"related_to": [
+"rock",
+"indie",
+"indie rock",
+"britpop",
+"alternative",
+"british"
+]
+},
+{
+"name": "Broken Beat",
+"related_to": [
+"nu jazz",
+"electronic",
+"soul",
+"downtempo",
+"funk",
+"electro funk"
+]
+},
+{
+"name": "brutal",
+"related_to": [
+"death metal",
+"deathcore",
+"metalcore",
+"metal",
+"grindcore",
+"brutal death metal"
+]
+},
+{
+"name": "brutal death",
+"related_to": [
+"death metal",
+"brutal death",
+"grindcore",
+"slamming brutal death metal",
+"deathcore",
+"goregrind"
+]
+},
+{
+"name": "Brutal Death Metal",
+"related_to": [
+"death metal",
+"technical death metal",
+"grindcore",
+"metal",
+"slamming brutal death metal",
+"goregrind"
+]
+},
+{
+"name": "C-pop",
+"related_to": [
+"chinese",
+"pop",
+"cpop",
+"taiwanese",
+"taiwan",
+"female vocalists"
+]
+},
+{
+"name": "cabaret",
+"related_to": [
+"dark cabaret",
+"female vocalists",
+"jazz",
+"german",
+"alternative",
+"chanson"
+]
+},
+{
+"name": "cello rock",
+"related_to": [
+"cello",
+"gothic",
+"alternative",
+"instrumental",
+"female vocalists",
+"symphonic metal"
+]
+},
+{
+"name": "celtic",
+"related_to": [
+"folk",
+"irish",
+"new age",
+"instrumental",
+"irish folk",
+"female vocalists"
+]
+},
+{
+"name": "celtic metal",
+"related_to": [
+"celtic metal",
+"pagan metal",
+"celtic",
+"black metal",
+"celtic folk metal",
+"metal"
+]
+},
+{
+"name": "celtic punk",
+"related_to": [
+"punk",
+"folk punk",
+"irish",
+"punk rock",
+"irish punk",
+"celtic"
+]
+},
+{
+"name": "celtic rock",
+"related_to": [
+"celtic",
+"irish",
+"folk",
+"folk rock",
+"rock",
+"celtic punk"
+]
+},
+{
+"name": "chamber pop",
+"related_to": [
+"indie",
+"indie pop",
+"intellipop",
+"fontaine james",
+"pop",
+"alternative"
+]
+},
+{
+"name": "chanson",
+"related_to": [
+"french",
+"chanson francaise",
+"female vocalists",
+"pop",
+"fip",
+"francais"
+]
+},
+{
+"name": "Chicago Blues",
+"related_to": [
+"chicago blues",
+"delta blues",
+"classic blues",
+"electric blues",
+"harmonica blues",
+"blues rock"
+]
+},
+{
+"name": "chick rock",
+"related_to": [
+"chick rock",
+"indie",
+"alternative folk",
+"rock",
+"folk",
+"alternative"
+]
+},
+{
+"name": "chiptune",
+"related_to": [
+"8-bit",
+"electronic",
+"8bit",
+"under 2000 listeners",
+"bitpop",
+"electronica"
+]
+},
+{
+"name": "Christian Hardcore",
+"related_to": [
+"metalcore",
+"christian hardcore",
+"christian",
+"metal",
+"christian metalcore",
+"christian metal"
+]
+},
+{
+"name": "christian metal",
+"related_to": [
+"metal",
+"christian",
+"metalcore",
+"power metal",
+"heavy metal",
+"christian rock"
+]
+},
+{
+"name": "Christian Metalcore",
+"related_to": [
+"christian metalcore",
+"hardcore",
+"christian",
+"metal",
+"christian metal",
+"post-hardcore"
+]
+},
+{
+"name": "christian rock",
+"related_to": [
+"christian",
+"rock",
+"alternative rock",
+"worship",
+"alternative",
+"contemporary christian"
+]
+},
+{
+"name": "classic",
+"related_to": [
+"classical",
+"instrumental",
+"hip-hop",
+"piano",
+"rock",
+"opera"
+]
+},
+{
+"name": "Classic Blues",
+"related_to": [
+"classic blues",
+"delta blues",
+"chicago blues",
+"guitar",
+"old blues",
+"blues rock"
+]
+},
+{
+"name": "classic country",
+"related_to": [
+"classic country",
+"oldies",
+"female vocalists",
+"my favorite",
+"great song",
+"outlaw country"
+]
+},
+{
+"name": "classic jazz",
+"related_to": [
+"jazz",
+"early jazz",
+"dixieland jazz",
+"ragtime",
+"swing",
+"blues"
+]
+},
+{
+"name": "classic metal",
+"related_to": [
+"classic metal",
+"metal",
+"hard rock",
+"classic rock",
+"rock",
+"thrash metal"
+]
+},
+{
+"name": "Classic Punk",
+"related_to": [
+"punk rock",
+"classic punk",
+"rock",
+"70s",
+"80s",
+"classic rock"
+]
+},
+{
+"name": "classic rock",
+"related_to": [
+"rock",
+"hard rock",
+"progressive rock",
+"70s",
+"60s",
+"blues rock"
+]
+},
+{
+"name": "Classical",
+"related_to": [
+"piano",
+"baroque",
+"instrumental",
+"opera",
+"soundtrack",
+"contemporary classical"
+]
+},
+{
+"name": "classique",
+"related_to": [
+"classique",
+"piano",
+"classic",
+"baroque",
+"under 2000 listeners",
+"classical piano"
+]
+},
+{
+"name": "club",
+"related_to": [
+"dance",
+"house",
+"electronic",
+"trance",
+"electro",
+"electronica"
+]
+},
+{
+"name": "club-dance",
+"related_to": [
+"dance",
+"electronic",
+"techno",
+"house",
+"trance",
+"pop"
+]
+},
+{
+"name": "college rock",
+"related_to": [
+"rock",
+"alternative",
+"alternative rock",
+"80s",
+"indie",
+"indie rock"
+]
+},
+{
+"name": "Comedy Rock",
+"related_to": [
+"rock",
+"comedy",
+"alternative poprock",
+"indie rock",
+"alternative rock",
+"alternative"
+]
+},
+{
+"name": "Contemporary",
+"related_to": [
+"contemporary classical",
+"classical",
+"experimental",
+"achingly intelligent",
+"ambient",
+"piano"
+]
+},
+{
+"name": "contemporary christian",
+"related_to": [
+"christian",
+"worship",
+"christian rock",
+"gospel",
+"pop",
+"praise and worship"
+]
+},
+{
+"name": "contemporary classical",
+"related_to": [
+"classical",
+"piano",
+"composer",
+"avant-garde",
+"experimental",
+"instrumental"
+]
+},
+{
+"name": "contemporary jazz",
+"related_to": [
+"contemporary jazz",
+"smooth jazz",
+"piano",
+"saxophone",
+"instrumental",
+"jazz piano"
+]
+},
+{
+"name": "contemporary rnb",
+"related_to": [
+"rnb",
+"pop",
+"soul",
+"uk bass",
+"female vocalists",
+"urban"
+]
+},
+{
+"name": "cool jazz",
+"related_to": [
+"cool jazz",
+"bebop",
+"saxophone",
+"trumpet",
+"piano",
+"smooth jazz"
+]
+},
+{
+"name": "country",
+"related_to": [
+"classic country",
+"folk",
+"female vocalists",
+"bluegrass",
+"alt-country",
+"americana"
+]
+},
+{
+"name": "country rock",
+"related_to": [
+"country",
+"rock",
+"classic rock",
+"southern rock",
+"folk rock",
+"folk"
+]
+},
+{
+"name": "country-rock",
+"related_to": [
+"rock",
+"country",
+"classic rock",
+"americana",
+"southern rock",
+"70s"
+]
+},
+{
+"name": "cpop",
+"related_to": [
+"chinese",
+"c-pop",
+"pop",
+"taiwan",
+"female vocalists",
+"taiwanese"
+]
+},
+{
+"name": "crack rock steady",
+"related_to": [
+"punk",
+"skacore",
+"ska",
+"ska punk",
+"hardcore punk",
+"punk rock"
+]
+},
+{
+"name": "crazy",
+"related_to": [
+"experimental",
+"electronic",
+"alternative",
+"rock",
+"indie",
+"funny"
+]
+},
+{
+"name": "Crunk",
+"related_to": [
+"rap",
+"hip-hop",
+"dirty south",
+"hip hop",
+"southern rap",
+"electronic"
+]
+},
+{
+"name": "Crust",
+"related_to": [
+"hardcore",
+"punk",
+"d-beat",
+"grindcore",
+"crust punk",
+"hardcore punk"
+]
+},
+{
+"name": "crust punk",
+"related_to": [
+"crust",
+"punk",
+"d-beat",
+"hardcore",
+"hardcore punk",
+"grindcore"
+]
+},
+{
+"name": "Cyber Metal",
+"related_to": [
+"cyber metal",
+"industrial",
+"metal",
+"modern metal",
+"melodic death metal",
+"electronic"
+]
+},
+{
+"name": "cybergrind",
+"related_to": [
+"grindcore",
+"goregrind",
+"experimental",
+"nintendocore",
+"noise",
+"porngrind"
+]
+},
+{
+"name": "cyberpunk",
+"related_to": [
+"industrial",
+"electronic",
+"digital hardcore",
+"ebm",
+"industrial rock",
+"dark"
+]
+},
+{
+"name": "d-beat",
+"related_to": [
+"crust",
+"punk",
+"hardcore",
+"hardcore punk",
+"crust punk",
+"swedish"
+]
+},
+{
+"name": "dance",
+"related_to": [
+"electronic",
+"pop",
+"house",
+"trance",
+"techno",
+"electronica"
+]
+},
+{
+"name": "dance punk",
+"related_to": [
+"indie",
+"electronic",
+"indie rock",
+"rock",
+"punk",
+"alternative"
+]
+},
+{
+"name": "dance rock",
+"related_to": [
+"indie rock",
+"indie",
+"alternative",
+"rock",
+"electronic",
+"dance"
+]
+},
+{
+"name": "dance-pop",
+"related_to": [
+"pop",
+"female vocalists",
+"dance",
+"love songs",
+"male vocalists",
+"electronic"
+]
+},
+{
+"name": "dance-punk",
+"related_to": [
+"indie",
+"electronic",
+"indie rock",
+"electro",
+"rock",
+"alternative"
+]
+},
+{
+"name": "dark",
+"related_to": [
+"electronic",
+"ambient",
+"experimental",
+"dark ambient",
+"gothic",
+"industrial"
+]
+},
+{
+"name": "dark ambient",
+"related_to": [
+"ambient",
+"experimental",
+"industrial",
+"drone",
+"noise",
+"electronic"
+]
+},
+{
+"name": "dark cabaret",
+"related_to": [
+"cabaret",
+"female vocalists",
+"gothic",
+"alternative",
+"piano",
+"punk cabaret"
+]
+},
+{
+"name": "dark electro",
+"related_to": [
+"ebm",
+"industrial",
+"harsh ebm",
+"electronic",
+"electro-industrial",
+"darkwave"
+]
+},
+{
+"name": "dark folk",
+"related_to": [
+"neofolk",
+"apocalyptic folk",
+"folk",
+"dark ambient",
+"martial industrial",
+"ambient"
+]
+},
+{
+"name": "Dark metal",
+"related_to": [
+"black metal",
+"gothic metal",
+"doom metal",
+"metal",
+"death metal",
+"melodic black metal"
+]
+},
+{
+"name": "dark wave",
+"related_to": [
+"darkwave",
+"gothic",
+"electronic",
+"industrial",
+"new wave",
+"gothic rock"
+]
+},
+{
+"name": "darkwave",
+"related_to": [
+"gothic",
+"industrial",
+"electronic",
+"ebm",
+"gothic rock",
+"synthpop"
+]
+},
+{
+"name": "death",
+"related_to": [
+"death metal",
+"metal",
+"brutal death metal",
+"melodic death metal",
+"grindcore",
+"old school death metal"
+]
+},
+{
+"name": "death doom",
+"related_to": [
+"death doom",
+"death metal",
+"death doom metal",
+"metal",
+"doom",
+"death-doom metal"
+]
+},
+{
+"name": "Death Doom Metal",
+"related_to": [
+"death doom metal",
+"death metal",
+"metal",
+"funeral doom metal",
+"doom",
+"death-doom metal"
+]
+},
+{
+"name": "death metal",
+"related_to": [
+"metal",
+"brutal death metal",
+"melodic death metal",
+"thrash metal",
+"old school death metal",
+"technical death metal"
+]
+},
+{
+"name": "death punk",
+"related_to": [
+"rock",
+"punk rock",
+"punk",
+"norwegian",
+"hard rock",
+"deathpunk"
+]
+},
+{
+"name": "death rock",
+"related_to": [
+"deathrock",
+"gothic rock",
+"gothic",
+"post-punk",
+"goth",
+"batcave"
+]
+},
+{
+"name": "death-doom metal",
+"related_to": [
+"death-doom metal",
+"death metal",
+"death doom metal",
+"metal",
+"melodic death metal",
+"gothic metal"
+]
+},
+{
+"name": "death-grind",
+"related_to": [
+"grindcore",
+"brutal death metal",
+"death-grind",
+"deathgrind",
+"goregrind",
+"metal"
+]
+},
+{
+"name": "death-thrash metal",
+"related_to": [
+"death metal",
+"death-thrash metal",
+"melodic death metal",
+"metal",
+"old school death metal",
+"the crown"
+]
+},
+{
+"name": "deathcore",
+"related_to": [
+"metalcore",
+"death metal",
+"hardcore",
+"metal",
+"grindcore",
+"progressive deathcore"
+]
+},
+{
+"name": "deathgrind",
+"related_to": [
+"deathgrind",
+"death metal",
+"brutal death metal",
+"goregrind",
+"metal",
+"deathcore"
+]
+},
+{
+"name": "deathrock",
+"related_to": [
+"gothic rock",
+"post-punk",
+"goth",
+"gothic",
+"batcave",
+"punk"
+]
+},
+{
+"name": "deep ambient",
+"related_to": [
+"deep ambient",
+"dark ambient",
+"drone ambient",
+"drone",
+"new age",
+"atmospheric"
+]
+},
+{
+"name": "deep house",
+"related_to": [
+"house",
+"electronic",
+"tech house",
+"minimal",
+"techno",
+"chillout"
+]
+},
+{
+"name": "delta blues",
+"related_to": [
+"delta blues",
+"classic blues",
+"chicago blues",
+"country blues",
+"folk",
+"acoustic blues"
+]
+},
+{
+"name": "depressive black metal",
+"related_to": [
+"black metal",
+"atmospheric black metal",
+"suicidal black metal",
+"dsbm",
+"ambient black metal",
+"raw black metal"
+]
+},
+{
+"name": "depressive rock",
+"related_to": [
+"depressive black metal",
+"doom metal",
+"black metal",
+"metal",
+"progressive metal",
+"melancholic"
+]
+},
+{
+"name": "desert rock",
+"related_to": [
+"desert rock",
+"rock",
+"stoner",
+"hard rock",
+"stoner metal",
+"psychedelic"
+]
+},
+{
+"name": "detroit techno",
+"related_to": [
+"detroit techno",
+"detroit",
+"electronic",
+"electro",
+"t e c h n o",
+"house"
+]
+},
+{
+"name": "deutschpunk",
+"related_to": [
+"punk",
+"german",
+"punk rock",
+"deutsch",
+"punkrock",
+"rock"
+]
+},
+{
+"name": "Deutschrap",
+"related_to": [
+"rap",
+"hip hop",
+"german",
+"hip-hop",
+"german hiphop",
+"german rap"
+]
+},
+{
+"name": "Deutschrock",
+"related_to": [
+"german",
+"deutsch",
+"rock",
+"punk rock",
+"pop",
+"punk"
+]
+},
+{
+"name": "digital hardcore",
+"related_to": [
+"industrial",
+"breakcore",
+"hardcore",
+"electronic",
+"noise",
+"experimental"
+]
+},
+{
+"name": "Dirty South",
+"related_to": [
+"rap",
+"hip-hop",
+"hip hop",
+"southern rap",
+"gangsta rap",
+"crunk"
+]
+},
+{
+"name": "Disco",
+"related_to": [
+"funk",
+"pop",
+"dance",
+"80s",
+"soul",
+"70s"
+]
+},
+{
+"name": "dnb",
+"related_to": [
+"dnb",
+"drum n bass",
+"liquid funk",
+"electronic",
+"jungle",
+"neurofunk"
+]
+},
+{
+"name": "Doom",
+"related_to": [
+"doom metal",
+"sludge",
+"metal",
+"drone",
+"stoner",
+"stoner rock"
+]
+},
+{
+"name": "doom metal",
+"related_to": [
+"metal",
+"gothic metal",
+"sludge",
+"death metal",
+"death doom metal",
+"doom"
+]
+},
+{
+"name": "downbeat",
+"related_to": [
+"downtempo",
+"chillout",
+"electronic",
+"ambient",
+"trip-hop",
+"electronica"
+]
+},
+{
+"name": "downtempo",
+"related_to": [
+"chillout",
+"electronic",
+"ambient",
+"trip-hop",
+"lounge",
+"electronica"
+]
+},
+{
+"name": "dream pop",
+"related_to": [
+"shoegaze",
+"indie",
+"indie pop",
+"electronic",
+"female vocalists",
+"alternative"
+]
+},
+{
+"name": "dreampop",
+"related_to": [
+"shoegaze",
+"indie",
+"dream pop",
+"ambient",
+"electronic",
+"chillwave"
+]
+},
+{
+"name": "Drill n Bass",
+"related_to": [
+"drill n bass",
+"breakcore",
+"electronic",
+"experimental",
+"glitch",
+"drill and bass"
+]
+},
+{
+"name": "drone",
+"related_to": [
+"ambient",
+"experimental",
+"dark ambient",
+"noise",
+"psychedelic",
+"electronic"
+]
+},
+{
+"name": "drone doom",
+"related_to": [
+"drone",
+"doom metal",
+"dark ambient",
+"ambient",
+"doom",
+"drone metal"
+]
+},
+{
+"name": "drone metal",
+"related_to": [
+"drone",
+"doom metal",
+"drone doom",
+"ambient",
+"dark ambient",
+"noise"
+]
+},
+{
+"name": "Drum and bass",
+"related_to": [
+"dnb",
+"drum n bass",
+"electronic",
+"liquid funk",
+"neurofunk",
+"jungle"
+]
+},
+{
+"name": "Drum n Bass",
+"related_to": [
+"drum n bass",
+"dnb",
+"electronic",
+"jungle",
+"liquid funk",
+"neurofunk"
+]
+},
+{
+"name": "dub",
+"related_to": [
+"reggae",
+"electronic",
+"dubstep",
+"ambient",
+"roots reggae",
+"chillout"
+]
+},
+{
+"name": "dubstep",
+"related_to": [
+"electronic",
+"dub",
+"grime",
+"bass",
+"drum and bass",
+"experimental"
+]
+},
+{
+"name": "east coast rap",
+"related_to": [
+"east coast rap",
+"rap",
+"hip hop",
+"underground hip-hop",
+"gangsta rap",
+"underground hip hop"
+]
+},
+{
+"name": "Eastern Europe Rock",
+"related_to": [
+"rock",
+"russian rock",
+"russian",
+"ska",
+"polish",
+"alternative rock"
+]
+},
+{
+"name": "ebm",
+"related_to": [
+"industrial",
+"electronic",
+"dark electro",
+"futurepop",
+"synthpop",
+"darkwave"
+]
+},
+{
+"name": "electro",
+"related_to": [
+"electronic",
+"house",
+"techno",
+"dance",
+"electronica",
+"minimal"
+]
+},
+{
+"name": "Electro Pop",
+"related_to": [
+"electronic",
+"electro",
+"pop",
+"synthpop",
+"indie",
+"electronica"
+]
+},
+{
+"name": "electro-industrial",
+"related_to": [
+"industrial",
+"ebm",
+"dark electro",
+"electronic",
+"darkwave",
+"futurepop"
+]
+},
+{
+"name": "electro-pop",
+"related_to": [
+"electronic",
+"japanese",
+"pop",
+"female vocalists",
+"electro",
+"synthpop"
+]
+},
+{
+"name": "Electro-Rock",
+"related_to": [
+"electronic",
+"alternative",
+"rock",
+"electronica",
+"indie",
+"electro"
+]
+},
+{
+"name": "Electroclash",
+"related_to": [
+"electronic",
+"electro",
+"electronica",
+"synthpop",
+"electropop",
+"dance"
+]
+},
+{
+"name": "Electrojazz",
+"related_to": [
+"electronic",
+"jazz",
+"lounge",
+"acid jazz",
+"downtempo",
+"nu-jazz"
+]
+},
+{
+"name": "electronic",
+"related_to": [
+"ambient",
+"electronica",
+"experimental",
+"dance",
+"house",
+"trance"
+]
+},
+{
+"name": "electronic dub",
+"related_to": [
+"electronic",
+"dub",
+"downtempo",
+"trip-hop",
+"electronica",
+"chillout"
+]
+},
+{
+"name": "Electronic Pop",
+"related_to": [
+"electronic",
+"pop",
+"dance",
+"global pop",
+"electronica",
+"indie"
+]
+},
+{
+"name": "electronic rock",
+"related_to": [
+"electronic",
+"rock",
+"alternative rock",
+"alternative",
+"industrial",
+"industrial rock"
+]
+},
+{
+"name": "electronica",
+"related_to": [
+"electronic",
+"ambient",
+"dance",
+"idm",
+"experimental",
+"chillout"
+]
+},
+{
+"name": "electropop",
+"related_to": [
+"electronic",
+"pop",
+"synthpop",
+"dance",
+"electro",
+"indie"
+]
+},
+{
+"name": "electropunk",
+"related_to": [
+"electronic",
+"electro",
+"electroclash",
+"german",
+"under 2000 listeners",
+"industrial"
+]
+},
+{
+"name": "elektro",
+"related_to": [
+"electro",
+"electronic",
+"house",
+"techno",
+"nu electro",
+"dance"
+]
+},
+{
+"name": "emo",
+"related_to": [
+"rock",
+"alternative",
+"screamo",
+"indie",
+"post-hardcore",
+"punk"
+]
+},
+{
+"name": "Emo rock",
+"related_to": [
+"emo",
+"rock",
+"alternative rock",
+"alternative",
+"pop punk",
+"emocore"
+]
+},
+{
+"name": "emo violence",
+"related_to": [
+"emo violence",
+"real screamo",
+"hardcore",
+"emo",
+"emoviolence",
+"post-hardcore"
+]
+},
+{
+"name": "emocore",
+"related_to": [
+"post-hardcore",
+"screamo",
+"emo",
+"hardcore",
+"metalcore",
+"alternative"
+]
+},
+{
+"name": "epic black metal",
+"related_to": [
+"epic black metal",
+"atmospheric black metal",
+"symphonic black metal",
+"melodic black metal",
+"epic",
+"epic metal"
+]
+},
+{
+"name": "epic metal",
+"related_to": [
+"power metal",
+"heavy metal",
+"symphonic metal",
+"metal",
+"folk metal",
+"epic"
+]
+},
+{
+"name": "euro trance",
+"related_to": [
+"euro trance",
+"dance",
+"vocal trance",
+"progressive trance",
+"electronic",
+"uplifting trance"
+]
+},
+{
+"name": "eurobeat",
+"related_to": [
+"initial d",
+"dance",
+"eurodance",
+"parapara",
+"japanese",
+"anime"
+]
+},
+{
+"name": "eurodance",
+"related_to": [
+"dance",
+"90s",
+"pop",
+"trance",
+"electronic",
+"italodance"
+]
+},
+{
+"name": "Europop",
+"related_to": [
+"pop",
+"dance",
+"eurodance",
+"female vocalists",
+"electronic",
+"90s"
+]
+},
+{
+"name": "experimental metal",
+"related_to": [
+"progressive metal",
+"experimental",
+"metal",
+"avant-garde metal",
+"industrial metal",
+"black metal"
+]
+},
+{
+"name": "Experimental Rock",
+"related_to": [
+"experimental",
+"progressive rock",
+"rock",
+"avant-garde",
+"psychedelic rock",
+"alternative"
+]
+},
+{
+"name": "experimental techno",
+"related_to": [
+"idm",
+"electronic",
+"experimental",
+"techno",
+"electronica",
+"minimal"
+]
+},
+{
+"name": "Extreme Metal",
+"related_to": [
+"black metal",
+"death metal",
+"metal",
+"grindcore",
+"thrash metal",
+"progressive metal"
+]
+},
+{
+"name": "Extreme Power Metal",
+"related_to": [
+"melodic death metal",
+"extreme power metal",
+"speed metal",
+"metal",
+"death metal",
+"heavy metal"
+]
+},
+{
+"name": "fado",
+"related_to": [
+"portugal",
+"portuguese",
+"female vocalists",
+"world",
+"folk",
+"world music"
+]
+},
+{
+"name": "fantasy",
+"related_to": [
+"soundtrack",
+"folk",
+"instrumental",
+"japanese",
+"female vocalists",
+"medieval"
+]
+},
+{
+"name": "fantasy metal",
+"related_to": [
+"fantasy metal",
+"symphonic metal",
+"metal",
+"epic metal",
+"folk metal",
+"heavy metal"
+]
+},
+{
+"name": "Female fronted metal",
+"related_to": [
+"gothic metal",
+"symphonic metal",
+"metal",
+"female vocalists",
+"gothic",
+"power metal"
+]
+},
+{
+"name": "finnish metal",
+"related_to": [
+"finnish",
+"metal",
+"melodic death metal",
+"power metal",
+"thrash metal",
+"heavy metal"
+]
+},
+{
+"name": "finnish rock",
+"related_to": [
+"rock",
+"finnish rock",
+"suomirock",
+"suomi",
+"alternative rock",
+"hard rock"
+]
+},
+{
+"name": "Flamenco",
+"related_to": [
+"spanish",
+"guitar",
+"latin",
+"spanish guitar",
+"instrumental",
+"world"
+]
+},
+{
+"name": "folk",
+"related_to": [
+"singer-songwriter",
+"indie",
+"acoustic",
+"female vocalists",
+"celtic",
+"rock"
+]
+},
+{
+"name": "folk and viking metal",
+"related_to": [
+"viking metal",
+"pagan metal",
+"metal",
+"folk and viking metal",
+"black metal",
+"mistagged"
+]
+},
+{
+"name": "Folk Black Metal",
+"related_to": [
+"folk black metal",
+"folk metal",
+"pagan metal",
+"viking metal",
+"atmospheric black metal",
+"metal"
+]
+},
+{
+"name": "folk metal",
+"related_to": [
+"viking metal",
+"metal",
+"pagan metal",
+"black metal",
+"folk",
+"power metal"
+]
+},
+{
+"name": "folk noir",
+"related_to": [
+"neofolk",
+"dark folk",
+"folk",
+"apocalyptic folk",
+"martial industrial",
+"je dirai quelque jour vos naissances latentes"
+]
+},
+{
+"name": "folk punk",
+"related_to": [
+"punk",
+"folk",
+"acoustic",
+"punk rock",
+"celtic punk",
+"irish"
+]
+},
+{
+"name": "folk rock",
+"related_to": [
+"folk",
+"rock",
+"singer-songwriter",
+"classic rock",
+"acoustic",
+"indie"
+]
+},
+{
+"name": "folk-punk",
+"related_to": [
+"folk punk",
+"punk",
+"folk",
+"punk rock",
+"acoustic",
+"rock"
+]
+},
+{
+"name": "folk-rock",
+"related_to": [
+"folk",
+"singer-songwriter",
+"rock",
+"folk rock",
+"indie",
+"acoustic"
+]
+},
+{
+"name": "folktronica",
+"related_to": [
+"electronic",
+"experimental",
+"folk",
+"indie",
+"ambient",
+"electronica"
+]
+},
+{
+"name": "freak folk",
+"related_to": [
+"folk",
+"experimental",
+"indie",
+"psychedelic",
+"singer-songwriter",
+"new weird america"
+]
+},
+{
+"name": "free jazz",
+"related_to": [
+"jazz",
+"avant-garde",
+"experimental",
+"free improvisation",
+"avant-garde jazz",
+"saxophone"
+]
+},
+{
+"name": "french house",
+"related_to": [
+"house",
+"electronic",
+"progressive house",
+"french",
+"electro",
+"dance"
+]
+},
+{
+"name": "french pop",
+"related_to": [
+"french",
+"pop",
+"female vocalists",
+"chanson francaise",
+"chanson",
+"ye-ye"
+]
+},
+{
+"name": "French rock",
+"related_to": [
+"rock",
+"french",
+"rock francais",
+"alternative rock",
+"alternative",
+"chanson francaise"
+]
+},
+{
+"name": "frenchcore",
+"related_to": [
+"hardcore",
+"rapcore",
+"speedcore",
+"hardtek",
+"gabber",
+"nu metal"
+]
+},
+{
+"name": "funeral doom",
+"related_to": [
+"funeral doom metal",
+"doom metal",
+"black metal",
+"doom",
+"metal",
+"dark ambient"
+]
+},
+{
+"name": "funeral doom metal",
+"related_to": [
+"doom metal",
+"funeral doom",
+"death doom metal",
+"atmospheric doom metal",
+"black metal",
+"doom"
+]
+},
+{
+"name": "funk",
+"related_to": [
+"soul",
+"jazz",
+"rock",
+"disco",
+"funky",
+"70s"
+]
+},
+{
+"name": "funk metal",
+"related_to": [
+"rock",
+"funk",
+"hard rock",
+"alternative rock",
+"alternative",
+"funk rock"
+]
+},
+{
+"name": "Funk Rock",
+"related_to": [
+"rock",
+"funk",
+"alternative rock",
+"alternative",
+"funk metal",
+"hard rock"
+]
+},
+{
+"name": "Fusion",
+"related_to": [
+"jazz",
+"jazz fusion",
+"instrumental",
+"progressive rock",
+"funk",
+"guitar"
+]
+},
+{
+"name": "future pop",
+"related_to": [
+"electronic",
+"futurepop",
+"synthpop",
+"ebm",
+"remix",
+"industrial"
+]
+},
+{
+"name": "futurepop",
+"related_to": [
+"ebm",
+"synthpop",
+"electronic",
+"industrial",
+"darkwave",
+"dark electro"
+]
+},
+{
+"name": "G-funk",
+"related_to": [
+"rap",
+"gangsta rap",
+"hip-hop",
+"west coast rap",
+"hip hop",
+"west coast"
+]
+},
+{
+"name": "gangsta",
+"related_to": [
+"rap",
+"hip-hop",
+"hip hop",
+"gangsta rap",
+"west coast rap",
+"west coast"
+]
+},
+{
+"name": "Gangsta Rap",
+"related_to": [
+"rap",
+"hip-hop",
+"west coast rap",
+"hip hop",
+"bay area rap",
+"west coast"
+]
+},
+{
+"name": "Garage Punk",
+"related_to": [
+"punk",
+"garage rock",
+"punk rock",
+"garage",
+"rock",
+"lo-fi"
+]
+},
+{
+"name": "Garage Rock",
+"related_to": [
+"rock",
+"garage",
+"indie rock",
+"indie",
+"punk",
+"60s"
+]
+},
+{
+"name": "geek rock",
+"related_to": [
+"rock",
+"alternative",
+"indie",
+"comedy",
+"funny",
+"alternative rock"
+]
+},
+{
+"name": "German hip hop",
+"related_to": [
+"hip hop",
+"german",
+"hip-hop",
+"rap",
+"deutschrap",
+"german hiphop"
+]
+},
+{
+"name": "german hip-hop",
+"related_to": [
+"rap",
+"hip hop",
+"hip-hop",
+"german",
+"german rap",
+"deutsch rap"
+]
+},
+{
+"name": "german hiphop",
+"related_to": [
+"hip hop",
+"german",
+"hip-hop",
+"rap",
+"deutschrap",
+"hiphop"
+]
+},
+{
+"name": "German metal",
+"related_to": [
+"heavy metal",
+"power metal",
+"metal",
+"thrash metal",
+"german",
+"speed metal"
+]
+},
+{
+"name": "German Metalcore",
+"related_to": [
+"german metalcore",
+"hardcore",
+"metal",
+"german",
+"melodic death metal",
+"death metal"
+]
+},
+{
+"name": "german rock",
+"related_to": [
+"german",
+"rock",
+"deutsch",
+"deutschrock",
+"pop",
+"industrial"
+]
+},
+{
+"name": "Girl Rock",
+"related_to": [
+"female vocalists",
+"rock",
+"under 2000 listeners",
+"alternative rock",
+"alternative and punk",
+"indie"
+]
+},
+{
+"name": "glam",
+"related_to": [
+"rock",
+"glam rock",
+"hard rock",
+"70s",
+"pop",
+"classic rock"
+]
+},
+{
+"name": "Glam Metal",
+"related_to": [
+"glam metal",
+"hair metal",
+"heavy metal",
+"rock",
+"glam rock",
+"80s"
+]
+},
+{
+"name": "glam rock",
+"related_to": [
+"rock",
+"hard rock",
+"classic rock",
+"70s",
+"hair metal",
+"glam"
+]
+},
+{
+"name": "glitch",
+"related_to": [
+"idm",
+"electronic",
+"experimental",
+"ambient",
+"minimal",
+"electronica"
+]
+},
+{
+"name": "goa",
+"related_to": [
+"psytrance",
+"psychedelic",
+"trance",
+"goa trance",
+"psychedelic trance",
+"electronic"
+]
+},
+{
+"name": "Goa Trance",
+"related_to": [
+"goa",
+"psytrance",
+"psychedelic",
+"trance",
+"psychedelic trance",
+"electronic"
+]
+},
+{
+"name": "goregrind",
+"related_to": [
+"grindcore",
+"brutal death metal",
+"death metal",
+"porngrind",
+"pornogrind",
+"cybergrind"
+]
+},
+{
+"name": "gospel",
+"related_to": [
+"christian",
+"contemporary gospel",
+"contemporary gospel tag",
+"soul",
+"worship",
+"blues"
+]
+},
+{
+"name": "goth",
+"related_to": [
+"gothic rock",
+"gothic",
+"post-punk",
+"darkwave",
+"deathrock",
+"industrial"
+]
+},
+{
+"name": "goth metal",
+"related_to": [
+"goth metal",
+"metal",
+"gothic",
+"female fronted metal",
+"doom metal",
+"gothic rock"
+]
+},
+{
+"name": "goth rock",
+"related_to": [
+"goth rock",
+"gothic",
+"goth",
+"post-punk",
+"deathrock",
+"darkwave"
+]
+},
+{
+"name": "gothenburg metal",
+"related_to": [
+"gothenburg metal",
+"death metal",
+"metal",
+"swedish metal",
+"swedish",
+"in flames"
+]
+},
+{
+"name": "Gothic",
+"related_to": [
+"darkwave",
+"gothic rock",
+"gothic metal",
+"industrial",
+"goth",
+"metal"
+]
+},
+{
+"name": "Gothic Doom Metal",
+"related_to": [
+"gothic doom metal",
+"gothic metal",
+"metal",
+"gothic",
+"death doom metal",
+"dark metal"
+]
+},
+{
+"name": "Gothic Metal",
+"related_to": [
+"metal",
+"symphonic metal",
+"gothic",
+"doom metal",
+"female fronted metal",
+"gothic rock"
+]
+},
+{
+"name": "Gothic Rock",
+"related_to": [
+"gothic",
+"post-punk",
+"gothic metal",
+"darkwave",
+"goth",
+"rock"
+]
+},
+{
+"name": "Grime",
+"related_to": [
+"dubstep",
+"hip-hop",
+"electronic",
+"rap",
+"british",
+"hip hop"
+]
+},
+{
+"name": "Grind",
+"related_to": [
+"grind",
+"goregrind",
+"death metal",
+"crust",
+"hardcore",
+"metal"
+]
+},
+{
+"name": "grindcore",
+"related_to": [
+"death metal",
+"goregrind",
+"brutal death metal",
+"metal",
+"hardcore",
+"deathcore"
+]
+},
+{
+"name": "groove",
+"related_to": [
+"funk",
+"jazz",
+"soul",
+"electronic",
+"rock",
+"funky"
+]
+},
+{
+"name": "groove metal",
+"related_to": [
+"thrash metal",
+"metal",
+"metalcore",
+"death metal",
+"heavy metal",
+"hardcore"
+]
+},
+{
+"name": "Grunge",
+"related_to": [
+"rock",
+"alternative",
+"alternative rock",
+"90s",
+"hard rock",
+"under 2000 listeners"
+]
+},
+{
+"name": "guitar rock",
+"related_to": [
+"rock",
+"guitar virtuoso",
+"blues",
+"guitar",
+"hard rock",
+"alternative"
+]
+},
+{
+"name": "gypsy punk",
+"related_to": [
+"gypsy",
+"punk",
+"balkan",
+"sufu5a",
+"alternative",
+"folk"
+]
+},
+{
+"name": "hair metal",
+"related_to": [
+"hair metal",
+"rock",
+"heavy metal",
+"80s",
+"glam metal",
+"glam rock"
+]
+},
+{
+"name": "happy hardcore",
+"related_to": [
+"hardcore",
+"rave",
+"electronic",
+"techno",
+"uk hardcore",
+"dance"
+]
+},
+{
+"name": "Hard Bop",
+"related_to": [
+"hard bop",
+"saxophone",
+"bebop",
+"trumpet",
+"piano",
+"blue note"
+]
+},
+{
+"name": "hard rock",
+"related_to": [
+"rock",
+"heavy metal",
+"classic rock",
+"metal",
+"alternative rock",
+"hair metal"
+]
+},
+{
+"name": "Hard Trance",
+"related_to": [
+"trance",
+"electronic",
+"dance",
+"techno",
+"hands up",
+"progressive trance"
+]
+},
+{
+"name": "hardcore",
+"related_to": [
+"metalcore",
+"punk",
+"hardcore punk",
+"metal",
+"post-hardcore",
+"screamo"
+]
+},
+{
+"name": "Hardcore and Metalcore",
+"related_to": [
+"hardcore",
+"hardcore-punk",
+"metal",
+"hardcore and metalcore",
+"mosh",
+"death metal"
+]
+},
+{
+"name": "hardcore punk",
+"related_to": [
+"hardcore",
+"punk",
+"punk rock",
+"melodic hardcore",
+"crust",
+"under 2000 listeners"
+]
+},
+{
+"name": "hardcore rap",
+"related_to": [
+"rap",
+"hip-hop",
+"underground hip-hop",
+"underground rap",
+"hip hop",
+"horrorcore"
+]
+},
+{
+"name": "hardrock",
+"related_to": [
+"rock",
+"hard rock",
+"metal",
+"heavy metal",
+"classic rock",
+"alternative"
+]
+},
+{
+"name": "hardstyle",
+"related_to": [
+"techno",
+"hardcore",
+"jumpstyle",
+"electronic",
+"trance",
+"hard trance"
+]
+},
+{
+"name": "Harsh EBM",
+"related_to": [
+"dark electro",
+"ebm",
+"industrial",
+"aggrotech",
+"electronic",
+"electro-industrial"
+]
+},
+{
+"name": "heavy metal",
+"related_to": [
+"metal",
+"hard rock",
+"power metal",
+"thrash metal",
+"rock",
+"progressive metal"
+]
+},
+{
+"name": "heavy rock",
+"related_to": [
+"hard rock",
+"rock",
+"heavy metal",
+"metal",
+"stoner rock",
+"stoner"
+]
+},
+{
+"name": "hip hop",
+"related_to": [
+"hip-hop",
+"rap",
+"german",
+"underground hip-hop",
+"rnb",
+"hiphop"
+]
+},
+{
+"name": "Hip-Hop",
+"related_to": [
+"rap",
+"hip hop",
+"underground hip-hop",
+"electronic",
+"rnb",
+"under 2000 listeners"
+]
+},
+{
+"name": "hip-hop and rap",
+"related_to": [
+"hip-hop and rap",
+"rap",
+"hip hop",
+"hiphop",
+"hip hop and rap",
+"hip-hop/rap"
+]
+},
+{
+"name": "hiphop",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"german",
+"underground hip-hop",
+"under 2000 listeners"
+]
+},
+{
+"name": "horror punk",
+"related_to": [
+"punk",
+"psychobilly",
+"punk rock",
+"horrorpunk",
+"deathrock",
+"rock"
+]
+},
+{
+"name": "Horrorcore",
+"related_to": [
+"rap",
+"hip-hop",
+"underground hip-hop",
+"underground rap",
+"underground",
+"juggalo"
+]
+},
+{
+"name": "House",
+"related_to": [
+"electronic",
+"dance",
+"electro",
+"deep house",
+"techno",
+"progressive house"
+]
+},
+{
+"name": "idm",
+"related_to": [
+"electronic",
+"ambient",
+"experimental",
+"electronica",
+"glitch",
+"under 2000 listeners"
+]
+},
+{
+"name": "indie",
+"related_to": [
+"rock",
+"indie rock",
+"alternative",
+"indie pop",
+"folk",
+"pop"
+]
+},
+{
+"name": "indie electronic",
+"related_to": [
+"electronic",
+"indie",
+"electronica",
+"indie pop",
+"indietronica",
+"indie rock"
+]
+},
+{
+"name": "indie folk",
+"related_to": [
+"folk",
+"indie",
+"singer-songwriter",
+"acoustic",
+"female vocalists",
+"indie rock"
+]
+},
+{
+"name": "Indie Hip Hop",
+"related_to": [
+"hip hop",
+"hip-hop",
+"rap",
+"underground hip-hop",
+"underground hip hop",
+"definitive jux"
+]
+},
+{
+"name": "indie pop",
+"related_to": [
+"indie",
+"indie rock",
+"pop",
+"alternative",
+"twee",
+"rock"
+]
+},
+{
+"name": "indie rap",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"indie",
+"underground hip-hop",
+"under 2000 listeners"
+]
+},
+{
+"name": "indie rock",
+"related_to": [
+"indie",
+"rock",
+"alternative",
+"alternative rock",
+"indie pop",
+"british"
+]
+},
+{
+"name": "indie-pop",
+"related_to": [
+"indie",
+"pop",
+"japanese",
+"indie pop",
+"alternative",
+"folk"
+]
+},
+{
+"name": "Indie-Rock",
+"related_to": [
+"indie",
+"rock",
+"alternative",
+"indie rock",
+"under 2000 listeners",
+"pop-rock"
+]
+},
+{
+"name": "indiepop",
+"related_to": [
+"indie",
+"indie pop",
+"twee",
+"under 2000 listeners",
+"pop",
+"alternative"
+]
+},
+{
+"name": "Indietronic",
+"related_to": [
+"electronic",
+"indie",
+"indietronica",
+"electronica",
+"electro",
+"creative commons"
+]
+},
+{
+"name": "indietronica",
+"related_to": [
+"electronic",
+"indie",
+"electronica",
+"indie pop",
+"electro",
+"experimental"
+]
+},
+{
+"name": "industrial",
+"related_to": [
+"ebm",
+"electronic",
+"experimental",
+"industrial metal",
+"noise",
+"industrial rock"
+]
+},
+{
+"name": "industrial black metal",
+"related_to": [
+"black metal",
+"industrial metal",
+"metal",
+"industrial",
+"symphonic black metal",
+"grindcore"
+]
+},
+{
+"name": "Industrial Death Metal",
+"related_to": [
+"death metal",
+"industrial metal",
+"metal",
+"grindcore",
+"industrial",
+"melodic death metal"
+]
+},
+{
+"name": "industrial jungle pussy punk",
+"related_to": [
+"industrial",
+"punk",
+"electronic",
+"rock",
+"electropunk",
+"mindless self indulgence"
+]
+},
+{
+"name": "industrial metal",
+"related_to": [
+"industrial",
+"metal",
+"industrial rock",
+"rock",
+"nu metal",
+"black metal"
+]
+},
+{
+"name": "industrial rock",
+"related_to": [
+"industrial",
+"industrial metal",
+"electronic",
+"rock",
+"metal",
+"alternative"
+]
+},
+{
+"name": "instrumental hip-hop",
+"related_to": [
+"hip-hop",
+"beats",
+"electronic",
+"instrumental",
+"trip-hop",
+"downtempo"
+]
+},
+{
+"name": "instrumental metal",
+"related_to": [
+"instrumental",
+"metal",
+"progressive metal",
+"red x",
+"guitar virtuoso",
+"symphonic metal"
+]
+},
+{
+"name": "instrumental rock",
+"related_to": [
+"instrumental",
+"guitar virtuoso",
+"rock",
+"guitar",
+"post-rock",
+"progressive rock"
+]
+},
+{
+"name": "Irish Folk",
+"related_to": [
+"celtic",
+"irish",
+"folk",
+"folk rock",
+"celtic folk",
+"irish drinking songs"
+]
+},
+{
+"name": "Irish Punk",
+"related_to": [
+"irish",
+"punk",
+"celtic punk",
+"folk punk",
+"punk rock",
+"celtic"
+]
+},
+{
+"name": "italian pop",
+"related_to": [
+"italian pop",
+"pop",
+"italiana",
+"italiano",
+"female vocalists",
+"rock"
+]
+},
+{
+"name": "J-Indie",
+"related_to": [
+"visual kei",
+"j-rock",
+"japanese",
+"rock",
+"indie",
+"jrock"
+]
+},
+{
+"name": "J-music",
+"related_to": [
+"japanese",
+"j-rock",
+"j-pop",
+"anime",
+"jpop",
+"female vocalists"
+]
+},
+{
+"name": "j-pop",
+"related_to": [
+"japanese",
+"jpop",
+"female vocalists",
+"anime",
+"j-rock",
+"pop"
+]
+},
+{
+"name": "J-rock",
+"related_to": [
+"japanese",
+"visual kei",
+"rock",
+"jrock",
+"j-pop",
+"anime"
+]
+},
+{
+"name": "j-urban",
+"related_to": [
+"japanese",
+"j-pop",
+"jpop",
+"hip-hop",
+"j-hiphop",
+"female vocalists"
+]
+},
+{
+"name": "jam band",
+"related_to": [
+"jam",
+"rock",
+"jamband",
+"southern rock",
+"jam bands",
+"blues"
+]
+},
+{
+"name": "jangle pop",
+"related_to": [
+"indie pop",
+"indie",
+"rock",
+"twee",
+"80s",
+"power pop"
+]
+},
+{
+"name": "japanese",
+"related_to": [
+"j-pop",
+"j-rock",
+"jpop",
+"female vocalists",
+"anime",
+"visual kei"
+]
+},
+{
+"name": "Japanese Indie",
+"related_to": [
+"japanese",
+"indie",
+"female vocalists",
+"rock",
+"folk",
+"acoustic"
+]
+},
+{
+"name": "Japanese pop",
+"related_to": [
+"japanese pop",
+"jpop",
+"japanese",
+"pop",
+"female vocalists",
+"j pop"
+]
+},
+{
+"name": "japanese rock",
+"related_to": [
+"japanese rock",
+"japanese",
+"rock",
+"jrock",
+"visual kei",
+"j-pop"
+]
+},
+{
+"name": "jazz",
+"related_to": [
+"female vocalists",
+"piano",
+"instrumental",
+"swing",
+"smooth jazz",
+"saxophone"
+]
+},
+{
+"name": "jazz funk",
+"related_to": [
+"funk",
+"jazz",
+"acid jazz",
+"soul",
+"smooth jazz",
+"fusion"
+]
+},
+{
+"name": "jazz fusion",
+"related_to": [
+"jazz",
+"fusion",
+"instrumental",
+"progressive rock",
+"jazz rock",
+"smooth jazz"
+]
+},
+{
+"name": "Jazz Hop",
+"related_to": [
+"hip-hop",
+"hip hop",
+"jazz",
+"underground hip-hop",
+"rap",
+"instrumental hip-hop"
+]
+},
+{
+"name": "jazz metal",
+"related_to": [
+"progressive metal",
+"technical death metal",
+"progressive death metal",
+"fusion",
+"avant-garde",
+"experimental"
+]
+},
+{
+"name": "jazz piano",
+"related_to": [
+"jazz piano",
+"piano",
+"contemporary jazz",
+"piano jazz",
+"instrumental",
+"smooth jazz"
+]
+},
+{
+"name": "Jazz Rock",
+"related_to": [
+"jazz",
+"progressive rock",
+"fusion",
+"jazz fusion",
+"rock",
+"instrumental"
+]
+},
+{
+"name": "jazz vocal",
+"related_to": [
+"jazz vocal",
+"female vocalists",
+"vocal jazz",
+"swing",
+"smooth jazz",
+"blues"
+]
+},
+{
+"name": "jazz-rock",
+"related_to": [
+"fusion",
+"progressive rock",
+"jazz",
+"jazz fusion",
+"jazz rock",
+"rock"
+]
+},
+{
+"name": "jazzy",
+"related_to": [
+"nu jazz",
+"nujazz",
+"jazz",
+"electronic",
+"chillout",
+"hip-hop"
+]
+},
+{
+"name": "JPop",
+"related_to": [
+"japanese",
+"j-pop",
+"female vocalists",
+"asian",
+"asian pop",
+"anime"
+]
+},
+{
+"name": "jrock",
+"related_to": [
+"j-rock",
+"japanese",
+"visual kei",
+"rock",
+"j-pop",
+"jpop"
+]
+},
+{
+"name": "jungle",
+"related_to": [
+"drum and bass",
+"dnb",
+"drum n bass",
+"electronic",
+"ragga jungle",
+"breakcore"
+]
+},
+{
+"name": "k-pop",
+"related_to": [
+"korean",
+"kpop",
+"pop",
+"female vocalists",
+"dance",
+"ballad"
+]
+},
+{
+"name": "kills nu-metal ten times over",
+"related_to": [
+"kills nu-metal ten times over",
+"metal",
+"heavy metal",
+"death metal",
+"power metal",
+"black metal"
+]
+},
+{
+"name": "Klassik",
+"related_to": [
+"klassik",
+"classical music",
+"piano",
+"baroque",
+"instrumental",
+"opera"
+]
+},
+{
+"name": "klezmer",
+"related_to": [
+"jewish",
+"folk",
+"yiddish",
+"jazz",
+"gypsy",
+"world"
+]
+},
+{
+"name": "Kpop",
+"related_to": [
+"k-pop",
+"korean",
+"pop",
+"korean pop",
+"female vocalists",
+"boy band"
+]
+},
+{
+"name": "krautrock",
+"related_to": [
+"progressive rock",
+"psychedelic",
+"experimental",
+"psychedelic rock",
+"german",
+"electronic"
+]
+},
+{
+"name": "latin",
+"related_to": [
+"pop",
+"salsa",
+"spanish",
+"jazz",
+"female vocalists",
+"world"
+]
+},
+{
+"name": "latin jazz",
+"related_to": [
+"jazz",
+"latin",
+"salsa",
+"bossa nova",
+"cuban",
+"cuba"
+]
+},
+{
+"name": "Latin Rock",
+"related_to": [
+"rock",
+"latin",
+"rock en espanol",
+"spanish",
+"classic rock",
+"rock en espaÃ±ol"
+]
+},
+{
+"name": "liquid funk",
+"related_to": [
+"liquid funk",
+"dnb",
+"drum n bass",
+"electronic",
+"soulful drum and bass",
+"jungle"
+]
+},
+{
+"name": "Lo-Fi",
+"related_to": [
+"indie",
+"experimental",
+"indie rock",
+"folk",
+"under 2000 listeners",
+"alternative"
+]
+},
+{
+"name": "lounge",
+"related_to": [
+"chillout",
+"downtempo",
+"electronic",
+"jazz",
+"ambient",
+"trip-hop"
+]
+},
+{
+"name": "Love Metal",
+"related_to": [
+"gothic rock",
+"finnish",
+"rock",
+"gothic metal",
+"him",
+"metal"
+]
+},
+{
+"name": "mallcore",
+"related_to": [
+"nu metal",
+"alternative metal",
+"bands that would eat children if only they could fit a whole one inside their mouths",
+"dane cook",
+"metal",
+"alternative rock"
+]
+},
+{
+"name": "martial industrial",
+"related_to": [
+"neofolk",
+"dark ambient",
+"industrial",
+"neoclassical",
+"martial",
+"apocalyptic folk"
+]
+},
+{
+"name": "math",
+"related_to": [
+"math rock",
+"indie",
+"experimental",
+"instrumental",
+"mathcore",
+"metal"
+]
+},
+{
+"name": "math metal",
+"related_to": [
+"progressive metal",
+"djent",
+"metal",
+"mathcore",
+"instrumental",
+"experimental"
+]
+},
+{
+"name": "math rock",
+"related_to": [
+"post-rock",
+"instrumental",
+"experimental",
+"indie",
+"indie rock",
+"post-hardcore"
+]
+},
+{
+"name": "mathcore",
+"related_to": [
+"hardcore",
+"metalcore",
+"experimental",
+"grindcore",
+"chaotic hardcore",
+"metal"
+]
+},
+{
+"name": "MathMetal",
+"related_to": [
+"progressive metal",
+"mathcore",
+"metal",
+"math metal",
+"metalcore",
+"nu metal"
+]
+},
+{
+"name": "melodeath",
+"related_to": [
+"melodeath",
+"death metal",
+"metal",
+"metalcore",
+"scottish",
+"under 2000 listeners"
+]
+},
+{
+"name": "melodic black metal",
+"related_to": [
+"melodic black metal",
+"symphonic black metal",
+"metal",
+"melodic death metal",
+"death metal",
+"gothic metal"
+]
+},
+{
+"name": "melodic death",
+"related_to": [
+"melodic death",
+"death metal",
+"metal",
+"metalcore",
+"progressive metal",
+"under 2000 listeners"
+]
+},
+{
+"name": "Melodic Death Metal",
+"related_to": [
+"death metal",
+"metal",
+"metalcore",
+"thrash metal",
+"progressive metal",
+"deathcore"
+]
+},
+{
+"name": "melodic hardcore",
+"related_to": [
+"hardcore",
+"metalcore",
+"punk rock",
+"punk",
+"hardcore punk",
+"post-hardcore"
+]
+},
+{
+"name": "melodic metal",
+"related_to": [
+"power metal",
+"metal",
+"heavy metal",
+"symphonic metal",
+"progressive metal",
+"melodic death metal"
+]
+},
+{
+"name": "melodic metalcore",
+"related_to": [
+"melodic metalcore",
+"hardcore",
+"metal",
+"post-hardcore",
+"melodic death metal",
+"melodic hardcore"
+]
+},
+{
+"name": "Melodic Power Metal",
+"related_to": [
+"melodic power metal",
+"heavy metal",
+"metal",
+"melodic metal",
+"symphonic metal",
+"progressive metal"
+]
+},
+{
+"name": "melodic punk",
+"related_to": [
+"punk rock",
+"punk",
+"pop punk",
+"melodic hardcore",
+"skate punk",
+"fast melodic punk"
+]
+},
+{
+"name": "melodic rock",
+"related_to": [
+"aor",
+"hard rock",
+"rock",
+"classic rock",
+"80s",
+"melodic hard rock"
+]
+},
+{
+"name": "Mendigao thrash",
+"related_to": [
+"mendigao thrash",
+"death metal",
+"black metal",
+"thrash metal",
+"goregrind",
+"metal"
+]
+},
+{
+"name": "metal",
+"related_to": [
+"heavy metal",
+"death metal",
+"thrash metal",
+"metalcore",
+"rock",
+"black metal"
+]
+},
+{
+"name": "metalcore",
+"related_to": [
+"hardcore",
+"metal",
+"deathcore",
+"post-hardcore",
+"melodic death metal",
+"death metal"
+]
+},
+{
+"name": "microhouse",
+"related_to": [
+"minimal",
+"electronic",
+"minimal techno",
+"techno",
+"house",
+"deep house"
+]
+},
+{
+"name": "minimal",
+"related_to": [
+"electronic",
+"techno",
+"minimal techno",
+"ambient",
+"tech house",
+"electro"
+]
+},
+{
+"name": "minimal techno",
+"related_to": [
+"minimal",
+"techno",
+"electronic",
+"tech house",
+"electro",
+"house"
+]
+},
+{
+"name": "minimalism",
+"related_to": [
+"contemporary classical",
+"ambient",
+"experimental",
+"piano",
+"classical",
+"avant-garde"
+]
+},
+{
+"name": "minimalist",
+"related_to": [
+"ambient",
+"contemporary classical",
+"experimental",
+"piano",
+"electronic",
+"minimalism"
+]
+},
+{
+"name": "Mittelalter",
+"related_to": [
+"medieval",
+"folk",
+"german",
+"folk metal",
+"folk rock",
+"deutsch"
+]
+},
+{
+"name": "modern country",
+"related_to": [
+"modern country",
+"female vocalists",
+"contemporary country",
+"2014",
+"male vocalists",
+"new country"
+]
+},
+{
+"name": "modern jazz",
+"related_to": [
+"modern jazz",
+"contemporary jazz",
+"smooth jazz",
+"piano",
+"instrumental",
+"jazz piano"
+]
+},
+{
+"name": "modern metal",
+"related_to": [
+"melodic death metal",
+"metalcore",
+"metal",
+"alternative metal",
+"nu metal",
+"modern melodic death metal"
+]
+},
+{
+"name": "modern rock",
+"related_to": [
+"alternative rock",
+"rock",
+"hard rock",
+"alternative metal",
+"alternative",
+"post-grunge"
+]
+},
+{
+"name": "motown",
+"related_to": [
+"soul",
+"60s",
+"oldies",
+"funk",
+"northern soul",
+"rhythm and blues"
+]
+},
+{
+"name": "mpb",
+"related_to": [
+"brasil",
+"brazilian",
+"bossa nova",
+"samba",
+"female vocalists",
+"brazil"
+]
+},
+{
+"name": "nederhop",
+"related_to": [
+"hip-hop",
+"dutch",
+"rap",
+"hiphop",
+"hip hop",
+"nederlandstalig"
+]
+},
+{
+"name": "neo classical",
+"related_to": [
+"ambient",
+"piano",
+"instrumental",
+"neoclassical",
+"modern classical",
+"contemporary classical"
+]
+},
+{
+"name": "Neo Soul",
+"related_to": [
+"soul",
+"neo-soul",
+"rnb",
+"female vocalists",
+"r&b",
+"funk"
+]
+},
+{
+"name": "neo-classical",
+"related_to": [
+"ambient",
+"piano",
+"instrumental",
+"neoclassical",
+"contemporary classical",
+"modern classical"
+]
+},
+{
+"name": "neo-classical metal",
+"related_to": [
+"power metal",
+"guitar virtuoso",
+"progressive metal",
+"instrumental",
+"heavy metal",
+"metal"
+]
+},
+{
+"name": "neo-folk",
+"related_to": [
+"neofolk",
+"folk",
+"apocalyptic folk",
+"psychedelic",
+"dark folk",
+"acoustic"
+]
+},
+{
+"name": "Neo-prog",
+"related_to": [
+"neo-prog",
+"rock",
+"progressive metal",
+"progressive",
+"neo progressive",
+"art rock"
+]
+},
+{
+"name": "Neo-Psychedelia",
+"related_to": [
+"psychedelic",
+"psychedelic rock",
+"indie",
+"indie rock",
+"shoegaze",
+"rock"
+]
+},
+{
+"name": "Neo-Soul",
+"related_to": [
+"soul",
+"rnb",
+"female vocalists",
+"neo soul",
+"jazz",
+"funk"
+]
+},
+{
+"name": "neoclassic",
+"related_to": [
+"ambient",
+"darkwave",
+"neoclassical",
+"ethereal",
+"gothic",
+"dark ambient"
+]
+},
+{
+"name": "neoclassical",
+"related_to": [
+"dark ambient",
+"martial industrial",
+"ambient",
+"instrumental",
+"neofolk",
+"piano"
+]
+},
+{
+"name": "neofolk",
+"related_to": [
+"apocalyptic folk",
+"folk",
+"dark folk",
+"martial industrial",
+"dark ambient",
+"industrial"
+]
+},
+{
+"name": "nerdcore",
+"related_to": [
+"hip-hop",
+"post-nerdcore",
+"experimental",
+"alternative",
+"rap",
+"adam zivojnovich"
+]
+},
+{
+"name": "neurofunk",
+"related_to": [
+"neurofunk",
+"dnb",
+"drum n bass",
+"techstep",
+"darkstep",
+"electronic"
+]
+},
+{
+"name": "new age",
+"related_to": [
+"ambient",
+"instrumental",
+"electronic",
+"chillout",
+"celtic",
+"piano"
+]
+},
+{
+"name": "new metal",
+"related_to": [
+"nu metal",
+"metal",
+"rock",
+"alternative",
+"alternative metal",
+"metalcore"
+]
+},
+{
+"name": "new rave",
+"related_to": [
+"electronic",
+"electro",
+"indie",
+"electronica",
+"dance",
+"british"
+]
+},
+{
+"name": "new wave",
+"related_to": [
+"80s",
+"post-punk",
+"rock",
+"synthpop",
+"pop",
+"electronic"
+]
+},
+{
+"name": "New Wave of British Heavy Metal",
+"related_to": [
+"nwobhm",
+"new wave of british heavy metal",
+"metal",
+"hard rock",
+"iron maiden",
+"80s"
+]
+},
+{
+"name": "New Weird America",
+"related_to": [
+"folk",
+"indie",
+"experimental",
+"freak folk",
+"psychedelic",
+"singer-songwriter"
+]
+},
+{
+"name": "New York Punk",
+"related_to": [
+"punk",
+"rock",
+"70s",
+"punk rock",
+"proto-punk",
+"new wave"
+]
+},
+{
+"name": "new-age",
+"related_to": [
+"ambient",
+"new age",
+"electronic",
+"instrumental",
+"chillout",
+"electronica"
+]
+},
+{
+"name": "ninja tune",
+"related_to": [
+"electronic",
+"trip-hop",
+"downtempo",
+"hip-hop",
+"chillout",
+"electronica"
+]
+},
+{
+"name": "Nintendocore",
+"related_to": [
+"8-bit",
+"experimental",
+"post-hardcore",
+"electronic",
+"hardcore",
+"cybergrind"
+]
+},
+{
+"name": "no wave",
+"related_to": [
+"post-punk",
+"experimental",
+"noise rock",
+"noise",
+"punk",
+"avant-garde"
+]
+},
+{
+"name": "noise",
+"related_to": [
+"experimental",
+"industrial",
+"ambient",
+"power electronics",
+"electronic",
+"drone"
+]
+},
+{
+"name": "noise pop",
+"related_to": [
+"shoegaze",
+"lo-fi",
+"indie",
+"indie rock",
+"indie pop",
+"experimental"
+]
+},
+{
+"name": "noise rock",
+"related_to": [
+"noise",
+"experimental",
+"post-punk",
+"punk",
+"indie",
+"rock"
+]
+},
+{
+"name": "noise-rock",
+"related_to": [
+"noise",
+"experimental",
+"noise rock",
+"post-hardcore",
+"shoegaze",
+"post-rock"
+]
+},
+{
+"name": "noisecore",
+"related_to": [
+"grindcore",
+"noise",
+"experimental",
+"hardcore",
+"mathcore",
+"noisegrind"
+]
+},
+{
+"name": "nordic metal",
+"related_to": [
+"metal",
+"black metal",
+"melodic death metal",
+"finnish",
+"viking metal",
+"folk metal"
+]
+},
+{
+"name": "northern soul",
+"related_to": [
+"soul",
+"60s",
+"motown",
+"7soul",
+"northern",
+"mod"
+]
+},
+{
+"name": "norwegian",
+"related_to": [
+"black metal",
+"pop",
+"rock",
+"norway",
+"electronic",
+"under 2000 listeners"
+]
+},
+{
+"name": "Norwegian Black Metal",
+"related_to": [
+"norwegian black metal",
+"norwegian",
+"true norwegian black metal",
+"metal",
+"symphonic black metal",
+"melodic black metal"
+]
+},
+{
+"name": "norwegian metal",
+"related_to": [
+"norwegian metal",
+"progressive metal",
+"norwegian black metal",
+"metal",
+"melodic black metal",
+"gothic metal"
+]
+},
+{
+"name": "not emo",
+"related_to": [
+"rock",
+"emo",
+"alternative",
+"post-hardcore",
+"alternative rock",
+"punk"
+]
+},
+{
+"name": "NOT METAL",
+"related_to": [
+"rock",
+"glam",
+"nu metal",
+"glam rock",
+"hard rock",
+"black metal"
+]
+},
+{
+"name": "not rock",
+"related_to": [
+"polish",
+"rock",
+"pop rock",
+"soundtrack",
+"video game music",
+"japanese"
+]
+},
+{
+"name": "nouvelle scene francaise",
+"related_to": [
+"french",
+"chanson francaise",
+"free palestine",
+"chanson",
+"francais",
+"rap concret"
+]
+},
+{
+"name": "nsbm",
+"related_to": [
+"black metal",
+"pagan metal",
+"ns black metal",
+"raw black metal",
+"germany",
+"rac"
+]
+},
+{
+"name": "nu jazz",
+"related_to": [
+"jazz",
+"chillout",
+"lounge",
+"electronic",
+"downtempo",
+"nujazz"
+]
+},
+{
+"name": "Nu Metal",
+"related_to": [
+"metal",
+"alternative metal",
+"rock",
+"alternative",
+"nu-metal",
+"rapcore"
+]
+},
+{
+"name": "nu soul",
+"related_to": [
+"soul",
+"neo-soul",
+"rnb",
+"funk",
+"neo soul",
+"female vocalists"
+]
+},
+{
+"name": "nu-jazz",
+"related_to": [
+"jazz",
+"nu jazz",
+"lounge",
+"electronic",
+"downtempo",
+"chillout"
+]
+},
+{
+"name": "Nu-metal",
+"related_to": [
+"nu metal",
+"metal",
+"alternative metal",
+"alternative",
+"rock",
+"rapcore"
+]
+},
+{
+"name": "nujazz",
+"related_to": [
+"nu jazz",
+"jazzy",
+"jazz",
+"lounge",
+"chillout",
+"electronic"
+]
+},
+{
+"name": "numetal",
+"related_to": [
+"nu metal",
+"rock",
+"rapcore",
+"metal",
+"alternative",
+"alternative metal"
+]
+},
+{
+"name": "NWOBHM",
+"related_to": [
+"nwobhm",
+"metal",
+"hard rock",
+"80s",
+"british",
+"new wave of british heavy metal"
+]
+},
+{
+"name": "Oi",
+"related_to": [
+"punk",
+"street punk",
+"skinhead",
+"punk rock",
+"rac",
+"streetpunk"
+]
+},
+{
+"name": "old school",
+"related_to": [
+"hip-hop",
+"hip hop",
+"rap",
+"thrash metal",
+"80s",
+"hardcore"
+]
+},
+{
+"name": "old school death metal",
+"related_to": [
+"old school death metal",
+"metal",
+"thrash metal",
+"brutal death metal",
+"swedish death metal",
+"grindcore"
+]
+},
+{
+"name": "Old school Hardcore",
+"related_to": [
+"hardcore",
+"rave",
+"jungle",
+"hardcore punk",
+"drum and bass",
+"old skool"
+]
+},
+{
+"name": "old school industrial",
+"related_to": [
+"old school industrial",
+"noise",
+"experimental",
+"post-punk",
+"electronic",
+"avant-garde"
+]
+},
+{
+"name": "Old School Punk",
+"related_to": [
+"old school punk",
+"punk rock",
+"hardcore punk",
+"hardcore",
+"rock",
+"anarcho-punk"
+]
+},
+{
+"name": "old school rap",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"old school",
+"80s",
+"old school hip hop"
+]
+},
+{
+"name": "oldschool hardcore",
+"related_to": [
+"oldschool hardcore",
+"hardcore punk",
+"straight edge",
+"gabber",
+"punk",
+"under 2000 listeners"
+]
+},
+{
+"name": "opera",
+"related_to": [
+"classical",
+"soprano",
+"female vocalists",
+"vocal",
+"tenor",
+"richard wagner"
+]
+},
+{
+"name": "opera metal",
+"related_to": [
+"opera metal",
+"power metal",
+"gothic metal",
+"metal",
+"female fronted metal",
+"progressive metal"
+]
+},
+{
+"name": "organic ambient",
+"related_to": [
+"ambient",
+"klangkomplex",
+"dark ambient",
+"hintergrundmusik",
+"deep ambient",
+"zeitgeist"
+]
+},
+{
+"name": "oshare kei",
+"related_to": [
+"j-rock",
+"visual kei",
+"japanese",
+"jrock",
+"rock",
+"an cafe"
+]
+},
+{
+"name": "outlaw country",
+"related_to": [
+"outlaw country",
+"classic country",
+"alt-country",
+"americana",
+"southern rock",
+"waylon jennings"
+]
+},
+{
+"name": "p-funk",
+"related_to": [
+"p-funk",
+"soul",
+"drjazzmrfunkmusic",
+"70s",
+"funk tag",
+"funky"
+]
+},
+{
+"name": "pagan black metal",
+"related_to": [
+"pagan black metal",
+"pagan metal",
+"folk metal",
+"nsbm",
+"atmospheric black metal",
+"viking metal"
+]
+},
+{
+"name": "pagan metal",
+"related_to": [
+"black metal",
+"folk metal",
+"viking metal",
+"pagan black metal",
+"metal",
+"nsbm"
+]
+},
+{
+"name": "peace punk",
+"related_to": [
+"punk",
+"peace punk",
+"anarcho punk",
+"punk rock",
+"post-punk",
+"crust"
+]
+},
+{
+"name": "polish hip-hop",
+"related_to": [
+"hip-hop",
+"rap",
+"polish",
+"hip hop",
+"polski hip hop",
+"polski rap"
+]
+},
+{
+"name": "polish punk",
+"related_to": [
+"polish punk",
+"punk rock",
+"polish",
+"rock",
+"anarcho-punk",
+"hardcore punk"
+]
+},
+{
+"name": "polish rock",
+"related_to": [
+"rock",
+"polish",
+"alternative",
+"alternative rock",
+"polskie",
+"hard rock"
+]
+},
+{
+"name": "political punk",
+"related_to": [
+"punk rock",
+"political punk",
+"political",
+"deutschpunk",
+"hardcore punk",
+"hardcore"
+]
+},
+{
+"name": "political rap",
+"related_to": [
+"rap",
+"hip-hop",
+"impossible for liberals to deal with",
+"g-funk",
+"hip hop",
+"political"
+]
+},
+{
+"name": "Polski Hip Hop",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"polish",
+"polish hip-hop",
+"polski rap"
+]
+},
+{
+"name": "pop",
+"related_to": [
+"female vocalists",
+"rock",
+"dance",
+"80s",
+"indie",
+"electronic"
+]
+},
+{
+"name": "Pop Metal",
+"related_to": [
+"hard rock",
+"melodic death metal",
+"metal",
+"rock",
+"hair metal",
+"modern metal"
+]
+},
+{
+"name": "pop punk",
+"related_to": [
+"punk",
+"punk rock",
+"rock",
+"emo",
+"alternative",
+"alternative rock"
+]
+},
+{
+"name": "pop rock",
+"related_to": [
+"rock",
+"pop",
+"alternative",
+"emo",
+"german",
+"female vocalists"
+]
+},
+{
+"name": "Pop-punk",
+"related_to": [
+"pop punk",
+"punk",
+"punk rock",
+"rock",
+"emo",
+"alternative"
+]
+},
+{
+"name": "Pop-Rock",
+"related_to": [
+"rock",
+"pop",
+"russian",
+"indie",
+"russian rock",
+"pop rock"
+]
+},
+{
+"name": "poprock",
+"related_to": [
+"rock",
+"pop",
+"female vocalists",
+"classic rock",
+"indie",
+"alternative"
+]
+},
+{
+"name": "porngrind",
+"related_to": [
+"porngrind",
+"grindcore",
+"pornogrind",
+"cybergrind",
+"brutal death metal",
+"death metal"
+]
+},
+{
+"name": "Post Grunge",
+"related_to": [
+"alternative rock",
+"rock",
+"post-grunge",
+"grunge",
+"alternative",
+"hard rock"
+]
+},
+{
+"name": "post hardcore",
+"related_to": [
+"post-hardcore",
+"screamo",
+"hardcore",
+"metalcore",
+"emo",
+"rock"
+]
+},
+{
+"name": "Post punk",
+"related_to": [
+"post-punk",
+"new wave",
+"indie",
+"punk",
+"rock",
+"alternative"
+]
+},
+{
+"name": "post rock",
+"related_to": [
+"post-rock",
+"instrumental",
+"ambient",
+"experimental",
+"indie",
+"rock"
+]
+},
+{
+"name": "Post-Black Metal",
+"related_to": [
+"black metal",
+"atmospheric black metal",
+"shoegaze",
+"depressive black metal",
+"post-rock",
+"post-metal"
+]
+},
+{
+"name": "Post-Bop",
+"related_to": [
+"post-bop",
+"free jazz",
+"saxophone",
+"contemporary jazz",
+"trumpet",
+"modern creative"
+]
+},
+{
+"name": "post-emo",
+"related_to": [
+"post-emo",
+"indie rock",
+"indie",
+"post-rock",
+"post-hardcore",
+"rock"
+]
+},
+{
+"name": "post-grunge",
+"related_to": [
+"alternative rock",
+"rock",
+"alternative",
+"hard rock",
+"grunge",
+"alternative metal"
+]
+},
+{
+"name": "post-hardcore",
+"related_to": [
+"screamo",
+"metalcore",
+"hardcore",
+"emo",
+"emocore",
+"rock"
+]
+},
+{
+"name": "Post-Metal",
+"related_to": [
+"sludge",
+"post-rock",
+"instrumental",
+"progressive metal",
+"post-hardcore",
+"experimental"
+]
+},
+{
+"name": "post-punk",
+"related_to": [
+"new wave",
+"rock",
+"80s",
+"indie",
+"punk",
+"gothic rock"
+]
+},
+{
+"name": "post-rock",
+"related_to": [
+"instrumental",
+"ambient",
+"experimental",
+"indie",
+"post rock",
+"shoegaze"
+]
+},
+{
+"name": "postpunk",
+"related_to": [
+"post-punk",
+"new wave",
+"indie",
+"alternative",
+"avantgarde pop",
+"post punk"
+]
+},
+{
+"name": "postrock",
+"related_to": [
+"post-rock",
+"instrumental",
+"post rock",
+"ambient",
+"experimental",
+"alternative"
+]
+},
+{
+"name": "Power metal",
+"related_to": [
+"heavy metal",
+"metal",
+"symphonic metal",
+"progressive metal",
+"melodic metal",
+"speed metal"
+]
+},
+{
+"name": "power pop",
+"related_to": [
+"rock",
+"indie",
+"pop",
+"indie rock",
+"under 2000 listeners",
+"alternative"
+]
+},
+{
+"name": "power violence",
+"related_to": [
+"powerviolence",
+"hardcore",
+"grindcore",
+"thrashcore",
+"fastcore",
+"hardcore punk"
+]
+},
+{
+"name": "powernoise",
+"related_to": [
+"industrial",
+"rhythmic noise",
+"noise",
+"power noise",
+"ebm",
+"electronic"
+]
+},
+{
+"name": "powerpop",
+"related_to": [
+"pop punk",
+"rock",
+"power pop",
+"electronic",
+"indie",
+"pop"
+]
+},
+{
+"name": "powerviolence",
+"related_to": [
+"grindcore",
+"hardcore",
+"power violence",
+"hardcore punk",
+"punk",
+"thrashcore"
+]
+},
+{
+"name": "prog metal",
+"related_to": [
+"prog metal",
+"metal",
+"progressive rock",
+"heavy metal",
+"progressive",
+"under 2000 listeners"
+]
+},
+{
+"name": "prog rock",
+"related_to": [
+"prog rock",
+"rock",
+"progressive",
+"classic rock",
+"progressive metal",
+"experimental"
+]
+},
+{
+"name": "Prog-Rock",
+"related_to": [
+"rock",
+"progressive rock",
+"classic rock",
+"hard rock",
+"metal",
+"album rock"
+]
+},
+{
+"name": "Progressive",
+"related_to": [
+"progressive rock",
+"progressive metal",
+"rock",
+"experimental",
+"electronic",
+"trance"
+]
+},
+{
+"name": "progressive black metal",
+"related_to": [
+"progressive black metal",
+"progressive metal",
+"metal",
+"atmospheric black metal",
+"viking metal",
+"symphonic black metal"
+]
+},
+{
+"name": "progressive death metal",
+"related_to": [
+"death metal",
+"progressive metal",
+"technical death metal",
+"melodic death metal",
+"metal",
+"black metal"
+]
+},
+{
+"name": "Progressive House",
+"related_to": [
+"house",
+"electronic",
+"trance",
+"progressive trance",
+"dance",
+"electro house"
+]
+},
+{
+"name": "Progressive metal",
+"related_to": [
+"metal",
+"progressive rock",
+"power metal",
+"heavy metal",
+"progressive",
+"instrumental"
+]
+},
+{
+"name": "progressive power metal",
+"related_to": [
+"power metal",
+"progressive power metal",
+"metal",
+"heavy metal",
+"symphonic metal",
+"melodic metal"
+]
+},
+{
+"name": "Progressive rock",
+"related_to": [
+"rock",
+"classic rock",
+"progressive metal",
+"progressive",
+"psychedelic rock",
+"instrumental"
+]
+},
+{
+"name": "progressive trance",
+"related_to": [
+"trance",
+"electronic",
+"vocal trance",
+"uplifting trance",
+"progressive house",
+"dance"
+]
+},
+{
+"name": "proto punk",
+"related_to": [
+"garage rock",
+"rock",
+"classic rock",
+"punk",
+"proto-punk",
+"garage"
+]
+},
+{
+"name": "proto-punk",
+"related_to": [
+"rock",
+"punk",
+"garage rock",
+"power pop",
+"contemporary pop-rock",
+"70s"
+]
+},
+{
+"name": "psy",
+"related_to": [
+"psy",
+"psychedelic",
+"goa",
+"trance",
+"psychedelic trance",
+"electronic"
+]
+},
+{
+"name": "Psychedelia",
+"related_to": [
+"psychedelic",
+"psychedelic rock",
+"60s",
+"experimental",
+"rock",
+"lo-fi"
+]
+},
+{
+"name": "psychedelic",
+"related_to": [
+"psychedelic rock",
+"experimental",
+"rock",
+"psytrance",
+"electronic",
+"progressive rock"
+]
+},
+{
+"name": "psychedelic folk",
+"related_to": [
+"folk",
+"psychedelic",
+"experimental",
+"freak folk",
+"psychedelic rock",
+"neofolk"
+]
+},
+{
+"name": "Psychedelic Rock",
+"related_to": [
+"psychedelic",
+"progressive rock",
+"rock",
+"classic rock",
+"stoner rock",
+"60s"
+]
+},
+{
+"name": "psychedelic trance",
+"related_to": [
+"psychedelic trance",
+"psychedelic",
+"goa",
+"trance",
+"electronic",
+"goa trance"
+]
+},
+{
+"name": "psychill",
+"related_to": [
+"ambient",
+"chillout",
+"psybient",
+"electronic",
+"downtempo",
+"psychedelic"
+]
+},
+{
+"name": "psychobilly",
+"related_to": [
+"rockabilly",
+"punk",
+"horror punk",
+"rock",
+"neo-rockabilly",
+"punk rock"
+]
+},
+{
+"name": "psytrance",
+"related_to": [
+"goa",
+"psychedelic",
+"psychedelic trance",
+"trance",
+"electronic",
+"darkpsy"
+]
+},
+{
+"name": "pub rock",
+"related_to": [
+"rock",
+"new wave",
+"70s",
+"punk",
+"classic rock",
+"punk rock"
+]
+},
+{
+"name": "punk",
+"related_to": [
+"punk rock",
+"rock",
+"hardcore",
+"hardcore punk",
+"under 2000 listeners",
+"alternative"
+]
+},
+{
+"name": "punk cabaret",
+"related_to": [
+"cabaret",
+"dark cabaret",
+"female vocalists",
+"piano",
+"alternative",
+"indie"
+]
+},
+{
+"name": "punk pop",
+"related_to": [
+"punk",
+"rock",
+"punk rock",
+"pop punk",
+"alternative",
+"alternative rock"
+]
+},
+{
+"name": "Punk Revival",
+"related_to": [
+"punk",
+"rock",
+"indie rock",
+"indie",
+"british",
+"punk rock"
+]
+},
+{
+"name": "punk rock",
+"related_to": [
+"punk",
+"rock",
+"pop punk",
+"hardcore",
+"alternative",
+"hardcore punk"
+]
+},
+{
+"name": "Punk-Pop",
+"related_to": [
+"rock",
+"punk",
+"pop punk",
+"indie",
+"punk rock",
+"alternative"
+]
+},
+{
+"name": "Punk-Rock",
+"related_to": [
+"punk",
+"punk rock",
+"rock",
+"alternative",
+"russian",
+"pop-punk"
+]
+},
+{
+"name": "punkrock",
+"related_to": [
+"punk",
+"punk rock",
+"rock",
+"deutschpunk",
+"german",
+"cover"
+]
+},
+{
+"name": "r and b",
+"related_to": [
+"r and b",
+"soul",
+"female vocalists",
+"pop",
+"r&b",
+"hip-hop"
+]
+},
+{
+"name": "r&b",
+"related_to": [
+"soul",
+"rnb",
+"pop",
+"female vocalists",
+"hip-hop",
+"hip hop"
+]
+},
+{
+"name": "ragga",
+"related_to": [
+"ragga",
+"dancehall",
+"polish",
+"hip-hop",
+"polish reggae",
+"rap"
+]
+},
+{
+"name": "Raggacore",
+"related_to": [
+"breakcore",
+"jungle",
+"ragga jungle",
+"electronic",
+"drum and bass",
+"idm"
+]
+},
+{
+"name": "rap",
+"related_to": [
+"hip-hop",
+"hip hop",
+"underground hip-hop",
+"gangsta rap",
+"under 2000 listeners",
+"hiphop"
+]
+},
+{
+"name": "Rap and Hip Hop",
+"related_to": [
+"hip-hop",
+"rap",
+"infamous",
+"hip hop",
+"rnb",
+"drake"
+]
+},
+{
+"name": "Rap and Hip-Hop",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"gangsta rap",
+"compilation",
+"rapcore"
+]
+},
+{
+"name": "rap metal",
+"related_to": [
+"rapcore",
+"nu metal",
+"crossover",
+"metal",
+"rock",
+"alternative metal"
+]
+},
+{
+"name": "rap-metal",
+"related_to": [
+"rapcore",
+"metal",
+"rap metal",
+"nu metal",
+"rock",
+"nu-metal"
+]
+},
+{
+"name": "Rap-Rock",
+"related_to": [
+"rapcore",
+"rock",
+"hip-hop",
+"rap rock",
+"hard rock",
+"rap"
+]
+},
+{
+"name": "rapcore",
+"related_to": [
+"nu metal",
+"alternative",
+"crossover",
+"rock",
+"hardcore",
+"rap"
+]
+},
+{
+"name": "Rave",
+"related_to": [
+"techno",
+"electronic",
+"dance",
+"happy hardcore",
+"hardcore",
+"trance"
+]
+},
+{
+"name": "raw black metal",
+"related_to": [
+"raw black metal",
+"depressive black metal",
+"nsbm",
+"finnish black metal",
+"atmospheric black metal",
+"metal"
+]
+},
+{
+"name": "real hip hop",
+"related_to": [
+"hip-hop",
+"hip hop",
+"rap",
+"underground hip hop",
+"underground hip-hop",
+"beach music"
+]
+},
+{
+"name": "Real hip-hop",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"underground hip-hop",
+"east coast rap",
+"revolutionary"
+]
+},
+{
+"name": "real metal",
+"related_to": [
+"real metal",
+"metal",
+"true metal",
+"death metal",
+"hipster garabe",
+"thrash metal"
+]
+},
+{
+"name": "real screamo",
+"related_to": [
+"real screamo",
+"emo violence",
+"emo",
+"hardcore",
+"post-hardcore",
+"post-rock"
+]
+},
+{
+"name": "reggae",
+"related_to": [
+"dub",
+"dancehall",
+"roots reggae",
+"ska",
+"roots",
+"rocksteady"
+]
+},
+{
+"name": "reggae-dub-ska",
+"related_to": [
+"reggae-dub-ska",
+"dub",
+"ska",
+"strings organs rubber wind",
+"roots reggae",
+"lovers rock"
+]
+},
+{
+"name": "Retro",
+"related_to": [
+"pop",
+"indie",
+"rock",
+"russian",
+"electronic",
+"jazz"
+]
+},
+{
+"name": "rhythm and blues",
+"related_to": [
+"soul",
+"blues",
+"funk",
+"oldies",
+"rnb",
+"60s"
+]
+},
+{
+"name": "riot grrl",
+"related_to": [
+"riot grrrl",
+"punk",
+"female vocalists",
+"rock",
+"indie",
+"alternative"
+]
+},
+{
+"name": "riot grrrl",
+"related_to": [
+"punk",
+"female vocalists",
+"punk rock",
+"grunge",
+"rock",
+"indie"
+]
+},
+{
+"name": "ritual ambient",
+"related_to": [
+"ritual ambient",
+"ambient",
+"ritual",
+"industrial",
+"drone",
+"experimental"
+]
+},
+{
+"name": "rnb",
+"related_to": [
+"soul",
+"pop",
+"female vocalists",
+"hip-hop",
+"r&b",
+"dance"
+]
+},
+{
+"name": "rock",
+"related_to": [
+"alternative",
+"alternative rock",
+"indie",
+"classic rock",
+"hard rock",
+"pop"
+]
+},
+{
+"name": "Rock and Roll",
+"related_to": [
+"rockabilly",
+"oldies",
+"rock",
+"50s",
+"rock n roll",
+"60s"
+]
+},
+{
+"name": "Rock Argentino",
+"related_to": [
+"rock",
+"argentina",
+"rock en espanol",
+"rock nacional",
+"rock en espaÃ±ol",
+"pop"
+]
+},
+{
+"name": "rock argento",
+"related_to": [
+"rock argentino",
+"argentina",
+"rock",
+"rock nacional",
+"rock en espanol",
+"reggae"
+]
+},
+{
+"name": "rock francais",
+"related_to": [
+"french",
+"rock",
+"french rock",
+"chanson francaise",
+"francais",
+"alternative rock"
+]
+},
+{
+"name": "rock n roll",
+"related_to": [
+"rockabilly",
+"rock",
+"oldies",
+"hard rock",
+"rock and roll",
+"50s"
+]
+},
+{
+"name": "rock opera",
+"related_to": [
+"rock",
+"progressive metal",
+"musical",
+"progressive rock",
+"classic rock",
+"soundtrack"
+]
+},
+{
+"name": "rockabilly",
+"related_to": [
+"psychobilly",
+"rock and roll",
+"50s",
+"rock n roll",
+"country",
+"rock"
+]
+},
+{
+"name": "rocksteady",
+"related_to": [
+"reggae",
+"ska",
+"skinhead reggae",
+"trojan",
+"metrohadriani loves this music",
+"jamaica"
+]
+},
+{
+"name": "roots reggae",
+"related_to": [
+"roots reggae",
+"dub",
+"roots",
+"jamaica",
+"dancehall",
+"ska"
+]
+},
+{
+"name": "russian alternative",
+"related_to": [
+"alternative",
+"russian",
+"metalcore",
+"rock",
+"emocore",
+"nu-metal"
+]
+},
+{
+"name": "russian rock",
+"related_to": [
+"rock",
+"russian",
+"alternative",
+"female vocalists",
+"punk rock",
+"punk"
+]
+},
+{
+"name": "sadcore",
+"related_to": [
+"slowcore",
+"indie",
+"folk",
+"lo-fi",
+"post-rock",
+"acoustic"
+]
+},
+{
+"name": "salsa",
+"related_to": [
+"latin",
+"salsa romantica",
+"cuba",
+"cuban",
+"latin jazz",
+"spanish"
+]
+},
+{
+"name": "samba",
+"related_to": [
+"brasil",
+"mpb",
+"brazilian",
+"bossa nova",
+"brazil",
+"pagode"
+]
+},
+{
+"name": "scandinavian metal",
+"related_to": [
+"metal",
+"black metal",
+"melodic death metal",
+"death metal",
+"power metal",
+"symphonic metal"
+]
+},
+{
+"name": "screamo",
+"related_to": [
+"post-hardcore",
+"hardcore",
+"emo",
+"metalcore",
+"emocore",
+"emo violence"
+]
+},
+{
+"name": "Semi-Ambient",
+"related_to": [
+"7 of 10 stars",
+"metal",
+"thrash metal",
+"tribal metal",
+"ambient",
+"cinematic"
+]
+},
+{
+"name": "shibuya-kei",
+"related_to": [
+"japanese",
+"j-pop",
+"electronic",
+"lounge",
+"pop",
+"electronica"
+]
+},
+{
+"name": "Shock Rock",
+"related_to": [
+"shock rock",
+"rock",
+"alice cooper",
+"classic rock",
+"heavy metal",
+"metal"
+]
+},
+{
+"name": "shoegaze",
+"related_to": [
+"indie",
+"dream pop",
+"post-rock",
+"ambient",
+"indie rock",
+"alternative"
+]
+},
+{
+"name": "shoegazer",
+"related_to": [
+"shoegaze",
+"indie",
+"indie rock",
+"dream pop",
+"alternative",
+"post-rock"
+]
+},
+{
+"name": "sid metal",
+"related_to": [
+"metal",
+"10 of 10 stars",
+"sid",
+"power metal",
+"electronic",
+"instrumental"
+]
+},
+{
+"name": "ska",
+"related_to": [
+"reggae",
+"ska punk",
+"punk",
+"rock",
+"rocksteady",
+"ska-punk"
+]
+},
+{
+"name": "ska punk",
+"related_to": [
+"ska punk",
+"punk",
+"punk rock",
+"ska-punk",
+"skacore",
+"rock"
+]
+},
+{
+"name": "ska-punk",
+"related_to": [
+"ska-punk",
+"ska punk",
+"punk",
+"punk rock",
+"under 2000 listeners",
+"russian"
+]
+},
+{
+"name": "skacore",
+"related_to": [
+"ska",
+"ska punk",
+"punk",
+"crack rock steady",
+"ska-punk",
+"hardcore"
+]
+},
+{
+"name": "skapunk",
+"related_to": [
+"skapunk",
+"punk",
+"ska punk",
+"punk rock",
+"ska-punk",
+"skacore"
+]
+},
+{
+"name": "skate punk",
+"related_to": [
+"punk rock",
+"punk",
+"melodic hardcore",
+"fast melodic punk",
+"melodic punk",
+"pop punk"
+]
+},
+{
+"name": "skatepunk",
+"related_to": [
+"punk rock",
+"skate punk",
+"punk",
+"melodic hardcore",
+"fast melodic punk",
+"melodic"
+]
+},
+{
+"name": "slowcore",
+"related_to": [
+"indie",
+"post-rock",
+"indie rock",
+"shoegaze",
+"sadcore",
+"ambient"
+]
+},
+{
+"name": "Sludge",
+"related_to": [
+"doom metal",
+"post-metal",
+"sludge metal",
+"metal",
+"doom",
+"hardcore"
+]
+},
+{
+"name": "sludge metal",
+"related_to": [
+"sludge",
+"doom metal",
+"metal",
+"stoner metal",
+"post-metal",
+"hardcore"
+]
+},
+{
+"name": "Smooth Jazz",
+"related_to": [
+"jazz",
+"saxophone",
+"instrumental",
+"guitar",
+"soul",
+"female vocalists"
+]
+},
+{
+"name": "soft rock",
+"related_to": [
+"rock",
+"pop",
+"classic rock",
+"70s",
+"80s",
+"singer-songwriter"
+]
+},
+{
+"name": "soul",
+"related_to": [
+"funk",
+"rnb",
+"female vocalists",
+"pop",
+"jazz",
+"blues"
+]
+},
+{
+"name": "southern rap",
+"related_to": [
+"rap",
+"dirty south",
+"hip-hop",
+"gangsta rap",
+"hip hop",
+"crunk"
+]
+},
+{
+"name": "Southern Rock",
+"related_to": [
+"rock",
+"classic rock",
+"blues rock",
+"hard rock",
+"blues",
+"country"
+]
+},
+{
+"name": "space age pop",
+"related_to": [
+"lounge",
+"easy listening",
+"exotica",
+"jazz",
+"instrumental",
+"electronic"
+]
+},
+{
+"name": "Space Ambient",
+"related_to": [
+"ambient",
+"dark ambient",
+"electronic",
+"space",
+"space music",
+"atmospheric"
+]
+},
+{
+"name": "space music",
+"related_to": [
+"ambient",
+"electronic",
+"space ambient",
+"atmospheric",
+"new age",
+"space"
+]
+},
+{
+"name": "space rock",
+"related_to": [
+"psychedelic rock",
+"psychedelic",
+"progressive rock",
+"rock",
+"stoner rock",
+"shoegaze"
+]
+},
+{
+"name": "Spanish Metal",
+"related_to": [
+"heavy metal",
+"power metal",
+"metal",
+"spanish",
+"folk metal",
+"spanish heavy metal"
+]
+},
+{
+"name": "spanish pop",
+"related_to": [
+"spanish",
+"pop",
+"latin",
+"female vocalists",
+"indie",
+"rock"
+]
+},
+{
+"name": "Spanish Rock",
+"related_to": [
+"rock",
+"spanish",
+"pop",
+"hard rock",
+"rock espaÃ±ol",
+"rock en espaÃ±ol"
+]
+},
+{
+"name": "speed metal",
+"related_to": [
+"thrash metal",
+"heavy metal",
+"power metal",
+"metal",
+"thrash",
+"black metal"
+]
+},
+{
+"name": "stoner doom",
+"related_to": [
+"doom metal",
+"stoner rock",
+"stoner metal",
+"doom",
+"stoner",
+"sludge"
+]
+},
+{
+"name": "stoner metal",
+"related_to": [
+"stoner rock",
+"doom metal",
+"sludge",
+"metal",
+"stoner",
+"sludge metal"
+]
+},
+{
+"name": "Stoner Rock",
+"related_to": [
+"rock",
+"stoner",
+"hard rock",
+"stoner metal",
+"psychedelic rock",
+"doom metal"
+]
+},
+{
+"name": "Straight Edge",
+"related_to": [
+"straight edge",
+"hardcore punk",
+"youth crew",
+"metalcore",
+"punk",
+"straight edge hardcore"
+]
+},
+{
+"name": "straight edge hardcore",
+"related_to": [
+"straight edge",
+"straight edge hardcore",
+"hardcore punk",
+"youth crew",
+"metalcore",
+"melodic hardcore"
+]
+},
+{
+"name": "street punk",
+"related_to": [
+"punk",
+"oi",
+"punk rock",
+"hardcore punk",
+"streetpunk",
+"hardcore"
+]
+},
+{
+"name": "streetpunk",
+"related_to": [
+"punk",
+"oi",
+"street punk",
+"punk rock",
+"hardcore punk",
+"skinhead"
+]
+},
+{
+"name": "sub pop",
+"related_to": [
+"indie",
+"grunge",
+"indie rock",
+"rock",
+"alternative",
+"2012"
+]
+},
+{
+"name": "Suicidal Black Metal",
+"related_to": [
+"black metal",
+"suicidal black metal",
+"dsbm",
+"atmospheric black metal",
+"depressive suicidal black metal",
+"ambient black metal"
+]
+},
+{
+"name": "suomirock",
+"related_to": [
+"suomirock",
+"rock",
+"suomi",
+"finland",
+"punk",
+"finnish lyrics"
+]
+},
+{
+"name": "Surf",
+"related_to": [
+"surf rock",
+"instrumental",
+"rock",
+"60s",
+"under 2000 listeners",
+"rockabilly"
+]
+},
+{
+"name": "surf rock",
+"related_to": [
+"surf",
+"instrumental",
+"rock",
+"60s",
+"garage rock",
+"indie"
+]
+},
+{
+"name": "Swedish Death Metal",
+"related_to": [
+"swedish death metal",
+"old school death metal",
+"melodic death metal",
+"swedish",
+"metal",
+"swedish metal"
+]
+},
+{
+"name": "Swedish Metal",
+"related_to": [
+"death metal",
+"swedish metal",
+"metal",
+"power metal",
+"black metal",
+"swedish"
+]
+},
+{
+"name": "Swedish Pop",
+"related_to": [
+"swedish pop",
+"pop",
+"indie pop",
+"indie",
+"rock",
+"twee"
+]
+},
+{
+"name": "Swedish Punk",
+"related_to": [
+"swedish punk",
+"swedish",
+"punk rock",
+"trallpunk",
+"svensk punk",
+"rock"
+]
+},
+{
+"name": "swing",
+"related_to": [
+"jazz",
+"big band",
+"oldies",
+"easy listening",
+"female vocalists",
+"blues"
+]
+},
+{
+"name": "symphonic",
+"related_to": [
+"classical",
+"instrumental",
+"soundtrack",
+"orchestral",
+"symphonic metal",
+"metal"
+]
+},
+{
+"name": "Symphonic Black Metal",
+"related_to": [
+"black metal",
+"melodic black metal",
+"metal",
+"gothic metal",
+"symphonic metal",
+"atmospheric black metal"
+]
+},
+{
+"name": "symphonic metal",
+"related_to": [
+"gothic metal",
+"power metal",
+"metal",
+"female fronted metal",
+"progressive metal",
+"gothic"
+]
+},
+{
+"name": "symphonic power metal",
+"related_to": [
+"symphonic power metal",
+"symphonic metal",
+"metal",
+"epic metal",
+"gothic metal",
+"female fronted metal"
+]
+},
+{
+"name": "symphonic prog",
+"related_to": [
+"symphonic prog",
+"rock",
+"progressive",
+"classic rock",
+"art rock",
+"symphonic rock"
+]
+},
+{
+"name": "Symphonic Rock",
+"related_to": [
+"symphonic rock",
+"rock",
+"classic rock",
+"art rock",
+"symphonic prog",
+"symphonic metal"
+]
+},
+{
+"name": "synth pop",
+"related_to": [
+"electronic",
+"synthpop",
+"new wave",
+"80s",
+"pop",
+"electronica"
+]
+},
+{
+"name": "synth rock",
+"related_to": [
+"industrial",
+"electronic",
+"rock",
+"industrial rock",
+"alternative",
+"gothic rock"
+]
+},
+{
+"name": "synth-pop",
+"related_to": [
+"electronic",
+"new wave",
+"synthpop",
+"pop",
+"80s",
+"electro"
+]
+},
+{
+"name": "Synth-Rock",
+"related_to": [
+"industrial",
+"electronic",
+"gothic",
+"rock",
+"gothic rock",
+"synth rock"
+]
+},
+{
+"name": "synthpop",
+"related_to": [
+"electronic",
+"new wave",
+"futurepop",
+"ebm",
+"80s",
+"pop"
+]
+},
+{
+"name": "tango",
+"related_to": [
+"tango argentino",
+"argentina",
+"tango nuevo",
+"instrumental",
+"jazz",
+"electrotango"
+]
+},
+{
+"name": "tech metal",
+"related_to": [
+"progressive metal",
+"mathcore",
+"math metal",
+"metal",
+"metalcore",
+"meshuggah"
+]
+},
+{
+"name": "technical death",
+"related_to": [
+"technical death metal",
+"technical death",
+"metal",
+"brutal death metal",
+"progressive death metal",
+"deathgrind"
+]
+},
+{
+"name": "Technical Death Metal",
+"related_to": [
+"death metal",
+"brutal death metal",
+"progressive death metal",
+"metal",
+"deathcore",
+"melodic death metal"
+]
+},
+{
+"name": "Technical Metal",
+"related_to": [
+"technical metal",
+"math metal",
+"metal",
+"mathcore",
+"technical death metal",
+"death metal"
+]
+},
+{
+"name": "Technical Thrash Metal",
+"related_to": [
+"technical thrash metal",
+"metal",
+"progressive metal",
+"progressive thrash metal",
+"death metal",
+"speed metal"
+]
+},
+{
+"name": "techno",
+"related_to": [
+"electronic",
+"minimal",
+"dance",
+"trance",
+"house",
+"minimal techno"
+]
+},
+{
+"name": "teen pop",
+"related_to": [
+"teen pop",
+"female vocalists",
+"dance",
+"pop rock",
+"disney",
+"rock"
+]
+},
+{
+"name": "terror ebm",
+"related_to": [
+"dark electro",
+"ebm",
+"industrial",
+"harsh ebm",
+"aggrotech",
+"electro-industrial"
+]
+},
+{
+"name": "thrash",
+"related_to": [
+"thrash",
+"metal",
+"hardcore",
+"heavy metal",
+"death metal",
+"punk"
+]
+},
+{
+"name": "thrash metal",
+"related_to": [
+"metal",
+"death metal",
+"heavy metal",
+"black metal",
+"speed metal",
+"thrash"
+]
+},
+{
+"name": "thrashcore",
+"related_to": [
+"hardcore",
+"fastcore",
+"hardcore punk",
+"powerviolence",
+"punk",
+"thrash"
+]
+},
+{
+"name": "Traditional Doom Metal",
+"related_to": [
+"traditional doom metal",
+"heavy metal",
+"metal",
+"epic doom metal",
+"doom",
+"hard rock"
+]
+},
+{
+"name": "trance",
+"related_to": [
+"electronic",
+"dance",
+"progressive trance",
+"vocal trance",
+"uplifting trance",
+"techno"
+]
+},
+{
+"name": "trash metal",
+"related_to": [
+"thrash metal",
+"metal",
+"heavy metal",
+"death metal",
+"metalcore",
+"hardcore"
+]
+},
+{
+"name": "tribal ambient",
+"related_to": [
+"ambient",
+"dark ambient",
+"tribal",
+"ritual ambient",
+"experimental",
+"tribal industrial"
+]
+},
+{
+"name": "trip hop",
+"related_to": [
+"trip-hop",
+"electronic",
+"downtempo",
+"chillout",
+"electronica",
+"ambient"
+]
+},
+{
+"name": "trip-hop",
+"related_to": [
+"electronic",
+"downtempo",
+"chillout",
+"female vocalists",
+"electronica",
+"ambient"
+]
+},
+{
+"name": "triphop",
+"related_to": [
+"trip-hop",
+"electronic",
+"chillout",
+"downtempo",
+"electronica",
+"ambient"
+]
+},
+{
+"name": "Troll Metal",
+"related_to": [
+"troll metal",
+"viking metal",
+"black metal",
+"metal",
+"pagan metal",
+"finnish"
+]
+},
+{
+"name": "tropicalia",
+"related_to": [
+"brasil",
+"mpb",
+"brazilian",
+"psychedelic",
+"experimental",
+"brazil"
+]
+},
+{
+"name": "true black metal",
+"related_to": [
+"true black metal",
+"raw black metal",
+"true norwegian black metal",
+"metal",
+"norwegian black metal",
+"swedish black metal"
+]
+},
+{
+"name": "true metal",
+"related_to": [
+"true metal",
+"power metal",
+"metal",
+"epic metal",
+"true metal gods",
+"death metal"
+]
+},
+{
+"name": "True Norwegian Black Metal",
+"related_to": [
+"true norwegian black metal",
+"norwegian black metal",
+"metal",
+"true black metal",
+"norwegian",
+"raw black metal"
+]
+},
+{
+"name": "true punk",
+"related_to": [
+"true punk",
+"punk rock",
+"hardcore punk",
+"street punk",
+"hardcore",
+"russian punk"
+]
+},
+{
+"name": "turkish rock",
+"related_to": [
+"turkish",
+"rock",
+"alternative rock",
+"alternative",
+"turk rock",
+"hard rock"
+]
+},
+{
+"name": "turntablism",
+"related_to": [
+"hip-hop",
+"electronic",
+"hip hop",
+"trip-hop",
+"ninja tune",
+"downtempo"
+]
+},
+{
+"name": "twee pop",
+"related_to": [
+"indie pop",
+"twee",
+"indie",
+"pop",
+"sarah records",
+"lo-fi"
+]
+},
+{
+"name": "UK hip hop",
+"related_to": [
+"hip-hop",
+"hip hop",
+"grime",
+"uk hip-hop",
+"rap",
+"british"
+]
+},
+{
+"name": "underground",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"underground hip-hop",
+"under 2000 listeners",
+"rock"
+]
+},
+{
+"name": "underground hip hop",
+"related_to": [
+"hip-hop",
+"hip hop",
+"true hip hop",
+"strictly for the undergound",
+"rap",
+"da real underground new skool hip hop"
+]
+},
+{
+"name": "underground hip-hop",
+"related_to": [
+"hip-hop",
+"rap",
+"hip hop",
+"underground rap",
+"abstract hip-hop",
+"under 2000 listeners"
+]
+},
+{
+"name": "underground rap",
+"related_to": [
+"hip-hop",
+"rap",
+"underground hip-hop",
+"hip hop",
+"russian rap",
+"under 2000 listeners"
+]
+},
+{
+"name": "uplifting trance",
+"related_to": [
+"uplifting trance",
+"progressive trance",
+"electronic",
+"vocal trance",
+"melodic trance",
+"dance"
+]
+},
+{
+"name": "urban",
+"related_to": [
+"rnb",
+"soul",
+"hip-hop",
+"pop",
+"rap",
+"female vocalists"
+]
+},
+{
+"name": "video game",
+"related_to": [
+"soundtrack",
+"video game music",
+"electronic",
+"instrumental",
+"game music",
+"game"
+]
+},
+{
+"name": "video game music",
+"related_to": [
+"soundtrack",
+"instrumental",
+"japanese",
+"final fantasy",
+"game music",
+"game"
+]
+},
+{
+"name": "viking metal",
+"related_to": [
+"folk metal",
+"black metal",
+"pagan metal",
+"metal",
+"melodic death metal",
+"death metal"
+]
+},
+{
+"name": "visual kei",
+"related_to": [
+"j-rock",
+"japanese",
+"jrock",
+"rock",
+"male vocalists",
+"oshare kei"
+]
+},
+{
+"name": "vocal house",
+"related_to": [
+"vocal house",
+"dance",
+"female vocalists",
+"electronic",
+"progressive house",
+"deep house"
+]
+},
+{
+"name": "vocal jazz",
+"related_to": [
+"vocal jazz",
+"female vocalists",
+"jazz vocal",
+"swing",
+"smooth jazz",
+"blues"
+]
+},
+{
+"name": "vocal trance",
+"related_to": [
+"vocal trance",
+"progressive trance",
+"dance",
+"electronic",
+"uplifting trance",
+"female vocalists"
+]
+},
+{
+"name": "West Coast Rap",
+"related_to": [
+"gangsta rap",
+"bay area rap",
+"rap",
+"hip-hop",
+"hip hop",
+"g-funk"
+]
+},
+{
+"name": "wizard rock",
+"related_to": [
+"harry potter",
+"wrock",
+"indie",
+"under 2000 listeners",
+"female vocalists",
+"rock"
+]
+},
+{
+"name": "world",
+"related_to": [
+"african",
+"folk",
+"world music",
+"africa",
+"arabic",
+"female vocalists"
+]
+},
+{
+"name": "world fusion",
+"related_to": [
+"world",
+"chillout",
+"ambient",
+"world music",
+"electronic",
+"jazz"
+]
+},
+{
+"name": "World Music",
+"related_to": [
+"world",
+"african",
+"folk",
+"female vocalists",
+"africa",
+"arabic"
+]
+},
+{
+"name": "wristslitters",
+"related_to": [
+"officially shit",
+"emo",
+"indie",
+"faggotcore",
+"rock",
+"alternative"
+]
+}
+]

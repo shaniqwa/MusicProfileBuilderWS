@@ -1,10 +1,34 @@
 var request = require("request");
 var async = require("async");
 var mongoose = require('mongoose'),
-	db = mongoose.connect('mongodb://music_profile:musicprofile@ds039175.mongolab.com:39175/music_profile');
+	// db = mongoose.connect('mongodb://music_profile:musicprofile@ds039175.mongolab.com:39175/music_profile');
+	db = mongoose.connect('mongodb://52.35.9.144:27017/musicprofile');
+
+
+	
+// a function to load json data from a file
+var fs = require('fs');
+function loadJSONfile (filename, encoding) {
+	try {
+		// default encoding is utf8
+		if (typeof (encoding) == 'undefined') encoding = 'utf8';
+		
+		// read file synchroneously
+		var contents = fs.readFileSync(filename, encoding);
+
+		// parse contents as JSON
+		return JSON.parse(contents);
+		
+	} catch (err) {
+		// an error occurred
+		throw err;	
+	}
+} // loadJSONfile
+
 
 var genresSchema = require('./genres_schema').genresSchema;
-mongoose.model('actionM', genresSchema);
+var GenreS = mongoose.model('actionM', genresSchema);
+
 
 var genres;
 var completed_requests = 0;
@@ -13,25 +37,7 @@ var num_of_requsts2 = 0;
 var lastFM_API_KEY = "5b801a66d1a34e73b6e563afc27ef06b";
 var youtubeAPI_KEY = "AIzaSyCFLDEh1SbsSvQcgEVHuMOGfKefK8Ko-xc";
 
-//connect to DB and get all genres
-mongoose.connection.once('open', function() {
-	var Genres = this.model('actionM');
 
-	var query = Genres.find();
-	query.where('id').ne('PRIVATE');
-	query.exec(function (err, docs){
-		genres = docs;
-		mongoose.disconnect();
-
-		//initialize array of Genre objects, all counters set to 0
-		var len = genres.length;
-		for(var i=0; i<len ; i++){
-				var genre = new Genre(genres[i].name, 0)
-			    MP.data.push(genre);
-		}
-		return genres;
-	});
-});
 
 //Genre object 
 function Genre(genre, counter) {
@@ -89,39 +95,20 @@ MP.prototype.exists = function(artist,genre){
 
 var MP = new MP();
 
-// function updateMPwithNewArtist(artist,callback){
-// 	var encodedParam = encodeURIComponent(artist); //safe search: encode to support any language search
-// 	request( "http://ws.audioscrobbler.com/2.0/?method=artist.getTopTags&artist=" + encodedParam + "&api_key="+ lastFM_API_KEY + "&limit=2&format=json", function(error, response, body) {
-// 	if (!error && response.statusCode == 200) {
-// 		var temp = JSON.parse(body);
-// 		if(temp.error){
-// 			console.log(temp.message , artist); //if the artist is not valid - print the error message
-// 		}else{
-// 			//artist is valid
-// 			var tags = temp.toptags.tag;
-// 			var tagsSize = tags.length;
-// 			var genresSize = MP.data.length;
-// 			for(var i = 0 ; i < tagsSize ; i++){
-// 				for(var j = 0; j < genresSize; j++) {
-// 				    if ((tags[i].name == MP.data[j].genre) && (tags[i].count > 10)) {
-// 				        MP.data[j].counter++;
-// 				        MP.total++;
-// 				        MP.data[j].artists.push(artist);
-// 				        break;
-// 				    }
-// 				}
-// 			}
-// 		}
-// 		completed_requests++;
-// 		callback(true);
-// 	  }else{
-// 	  	//problem with request
-// 	  	console.log("lastFM returned ",response.statusCode);
-// 	  	callback(false);
-// 	  }
-// 	});
-// }
 
+// exports.insert = function(){
+
+// 	var myData = loadJSONfile(__dirname + '/data.json');
+// 	for(i in myData){
+// 		console.log(myData[i]);
+// 		var newGen = new GenreS(myData[i]);
+// 		newGen.save(function (err, doc) {
+// 	  		if (err) return console.error(err);
+// 	  		console.log(doc);
+// 		});
+// 	}
+
+// }
 
 exports.getAllGenres = function() {
 	return genres;
@@ -142,7 +129,24 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	MP.total = 0;
 
 	if(fb_access_token != "null" && yt_access_token != "null"){
-		async.parallel([
+		async.waterfall([
+	    function(callback) {
+	    	GenreS.find(function (err, docs) {
+				  if (err) {
+				  	callback(err);
+				  	return;
+				  }
+				  //initialize array of Genre objects, all counters set to 0
+					var len = docs.length;
+					for(var i=0; i<len ; i++){
+							var genre = new Genre(docs[i].name, 0)
+						    MP.data.push(genre);
+					}
+				  console.log('DB load finished');
+	              callback();
+			});
+
+	    },	
 	    function(callback) {
 	        Facebook(fb_access_token, function(err) {
 	            if (err) {
@@ -162,20 +166,24 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	            console.log('Youtube check finished');
 	            callback();
 	        });
+	    },
+	    function(callback) {
+	         //remove all generes that set to zero
+		    for(var i = MP.data.length - 1; i >= 0; i--){
+				if(MP.data[i].counter == 0){
+					MP.data.splice(i, 1);
+				}	
+		    }
+		    console.log('remove check finished');
+		    MP.printAll();
+		    callback();
 	    }
 	], function(err) {
 	    if (err) {
 	        throw err; //Or pass it on to an outer callback, log it or whatever suits your needs
 	    }
 	    console.log('Both Facebook and Youtube are done now');
-
-	    //remove all generes that set to zero
-	    for(i=0; i<MP.data.length;i++){
-			if(MP.data[i].counter == 0){
-				MP.data.splice(i, 1);
-			}	
-	    }
-	    res.status(200).json(MP);
+	    res.status(200).json(MP.data);
 	});
 	}else if(fb_access_token == "null" && yt_access_token != "null" ){
 			YouTube(yt_access_token, function(err) {

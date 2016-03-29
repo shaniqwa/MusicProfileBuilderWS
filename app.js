@@ -18,6 +18,17 @@ var express = require('express'),
 	});
 
 
+		//route that return all genres objects in our data base in a json format
+	app.get('/insert', function (req, res){
+		res.header("Access-Control-Allow-Origin", "*");
+		res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+		app.set('json spaces', 4);
+		res.set("Content-Type", "application/json");
+		res.status(200);
+		res.json(MP.insert());
+	});
+
+
 	//route that return a genre object by passing it's name as parameter
 	app.param('genre', function ( req, res, next, value){
 		res.header("Access-Control-Allow-Origin", "*");
