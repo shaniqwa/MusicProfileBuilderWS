@@ -1,4 +1,5 @@
 var request = require("request");
+var math = require('mathjs');
 var async = require("async");
 var mongoose = require('mongoose'),
 	// db = mongoose.connect('mongodb://music_profile:musicprofile@ds039175.mongolab.com:39175/music_profile');
@@ -6,24 +7,24 @@ var mongoose = require('mongoose'),
 
 
 	
-// a function to load json data from a file
-var fs = require('fs');
-function loadJSONfile (filename, encoding) {
-	try {
-		// default encoding is utf8
-		if (typeof (encoding) == 'undefined') encoding = 'utf8';
+// // a function to load json data from a file
+// var fs = require('fs');
+// function loadJSONfile (filename, encoding) {
+// 	try {
+// 		// default encoding is utf8
+// 		if (typeof (encoding) == 'undefined') encoding = 'utf8';
 		
-		// read file synchroneously
-		var contents = fs.readFileSync(filename, encoding);
+// 		// read file synchroneously
+// 		var contents = fs.readFileSync(filename, encoding);
 
-		// parse contents as JSON
-		return JSON.parse(contents);
+// 		// parse contents as JSON
+// 		return JSON.parse(contents);
 		
-	} catch (err) {
-		// an error occurred
-		throw err;	
-	}
-} // loadJSONfile
+// 	} catch (err) {
+// 		// an error occurred
+// 		throw err;	
+// 	}
+// } // loadJSONfile
 
 
 var genresSchema = require('./genres_schema').genresSchema;
@@ -172,6 +173,8 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 		    for(var i = MP.data.length - 1; i >= 0; i--){
 				if(MP.data[i].counter == 0){
 					MP.data.splice(i, 1);
+				}else{
+					// MP.data[i].counter = MP.data[i].counter.math.round(num * 100) / 100;
 				}	
 		    }
 		    console.log('remove check finished');
@@ -186,14 +189,56 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	    res.status(200).json(MP.data);
 	});
 	}else if(fb_access_token == "null" && yt_access_token != "null" ){
-			YouTube(yt_access_token, function(err) {
+		//ONLY YOUTUBE
+				async.waterfall([
+	    function(callback) {
+	    	GenreS.find(function (err, docs) {
+				  if (err) {
+				  	callback(err);
+				  	return;
+				  }
+				  //initialize array of Genre objects, all counters set to 0
+					var len = docs.length;
+					for(var i=0; i<len ; i++){
+							var genre = new Genre(docs[i].name, 0)
+						    MP.data.push(genre);
+					}
+				  console.log('DB load finished');
+	              callback();
+			});
+
+	    },	
+	    function(callback) {
+	         YouTube(yt_access_token, function(err) {
 	            if (err) {
-	                res.status(200).json("error");
+	                callback(err);
 	                return; //It's important to return so that the task callback isn't called twice
 	            }
 	            console.log('Youtube check finished');
-	            res.status(200).json(MP);
+	            callback();
 	        });
+	    },
+	    function(callback) {
+	         //remove all generes that set to zero
+		    for(var i = MP.data.length - 1; i >= 0; i--){
+				if(MP.data[i].counter == 0){
+					MP.data.splice(i, 1);
+				}else{
+					// MP.data[i].counter = math.round(,);
+				}	
+		    }
+		    console.log('remove check finished');
+		    MP.printAll();
+		    callback();
+	    }
+	], function(err) {
+	    if (err) {
+	        throw err; //Or pass it on to an outer callback, log it or whatever suits your needs
+	    }
+	    console.log('Youtube is done now');
+	    res.status(200).json(MP.data);
+	});
+			
 	}else if(fb_access_token != "null" && yt_access_token == "null" ){
 			Facebook(fb_access_token, function(err) {
 	            if (err) {
