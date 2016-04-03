@@ -41,8 +41,9 @@ var youtubeAPI_KEY = "AIzaSyCFLDEh1SbsSvQcgEVHuMOGfKefK8Ko-xc";
 
 
 //Genre object 
-function Genre(genre, counter) {
+function Genre(genre,category, counter) {
     this.genre = genre;
+    this.category = category;
     this.counter = counter;
     this.percent = null;
     this.artists = [];
@@ -129,18 +130,19 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	MP.clearMP();	//clear MP object - prevent duplications because object is initialized outside this function
 	MP.total = 0;
 
-	if(fb_access_token != "null" && yt_access_token != "null"){
+	// if(fb_access_token != "null" && yt_access_token != "null"){
 		async.waterfall([
 	    function(callback) {
-	    	GenreS.find(function (err, docs) {
+	    	GenreS.find({ category: { $exists: true } },function (err, docs) {
 				  if (err) {
 				  	callback(err);
 				  	return;
 				  }
 				  //initialize array of Genre objects, all counters set to 0
 					var len = docs.length;
+					console.log(docs[0].category);
 					for(var i=0; i<len ; i++){
-							var genre = new Genre(docs[i].name, 0)
+							var genre = new Genre(docs[i].name, docs[i].category, 0);
 						    MP.data.push(genre);
 					}
 				  console.log('DB load finished');
@@ -149,24 +151,36 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 
 	    },	
 	    function(callback) {
-	        Facebook(fb_access_token, function(err) {
-	            if (err) {
-	                callback(err);
-	                return; //It's important to return so that the task callback isn't called twice
-	            }
-	            console.log('Facebook check finished');
-	            callback();
-	        });
+	    	if(fb_access_token != "null"){
+	    		Facebook(fb_access_token, function(err) {
+		            if (err) {
+		                callback(err);
+		                return; //It's important to return so that the task callback isn't called twice
+		            }
+		            console.log('Facebook check finished');
+		            callback();
+	     	   });
+	    	}else{
+	    		console.log('No Facebook check');
+	    		callback();
+	    	}
+	        
 	    },
 	    function(callback) {
-	         YouTube(yt_access_token, function(err) {
-	            if (err) {
-	                callback(err);
-	                return; //It's important to return so that the task callback isn't called twice
-	            }
-	            console.log('Youtube check finished');
-	            callback();
-	        });
+	    	if(yt_access_token != "null"){
+		    	YouTube(yt_access_token, function(err) {
+		            if (err) {
+		                callback(err);
+		                return; //It's important to return so that the task callback isn't called twice
+		            }
+		            console.log('Youtube check finished');
+		            callback();
+		        });	
+	    	}else{
+	    		console.log('No Youtube check');
+	    		callback();
+	    	}
+	         
 	    },
 	    function(callback) {
 	         //remove all generes that set to zero
@@ -188,69 +202,69 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	    console.log('Both Facebook and Youtube are done now');
 	    res.status(200).json(MP.data);
 	});
-	}else if(fb_access_token == "null" && yt_access_token != "null" ){
-		//ONLY YOUTUBE
-				async.waterfall([
-	    function(callback) {
-	    	GenreS.find(function (err, docs) {
-				  if (err) {
-				  	callback(err);
-				  	return;
-				  }
-				  //initialize array of Genre objects, all counters set to 0
-					var len = docs.length;
-					for(var i=0; i<len ; i++){
-							var genre = new Genre(docs[i].name, 0)
-						    MP.data.push(genre);
-					}
-				  console.log('DB load finished');
-	              callback();
-			});
+	// }else if(fb_access_token == "null" && yt_access_token != "null" ){
+	// 	//ONLY YOUTUBE
+	// 			async.waterfall([
+	//     function(callback) {
+	//     	GenreS.find(function (err, docs) {
+	// 			  if (err) {
+	// 			  	callback(err);
+	// 			  	return;
+	// 			  }
+	// 			  //initialize array of Genre objects, all counters set to 0
+	// 				var len = docs.length;
+	// 				for(var i=0; i<len ; i++){
+	// 						var genre = new Genre(docs[i].name, 0)
+	// 					    MP.data.push(genre);
+	// 				}
+	// 			  console.log('DB load finished');
+	//               callback();
+	// 		});
 
-	    },	
-	    function(callback) {
-	         YouTube(yt_access_token, function(err) {
-	            if (err) {
-	                callback(err);
-	                return; //It's important to return so that the task callback isn't called twice
-	            }
-	            console.log('Youtube check finished');
-	            callback();
-	        });
-	    },
-	    function(callback) {
-	         //remove all generes that set to zero
-		    for(var i = MP.data.length - 1; i >= 0; i--){
-				if(MP.data[i].counter == 0){
-					MP.data.splice(i, 1);
-				}else{
-					// MP.data[i].counter = math.round(,);
-				}	
-		    }
-		    console.log('remove check finished');
-		    MP.printAll();
-		    callback();
-	    }
-	], function(err) {
-	    if (err) {
-	        throw err; //Or pass it on to an outer callback, log it or whatever suits your needs
-	    }
-	    console.log('Youtube is done now');
-	    res.status(200).json(MP.data);
-	});
+	//     },	
+	//     function(callback) {
+	//          YouTube(yt_access_token, function(err) {
+	//             if (err) {
+	//                 callback(err);
+	//                 return; //It's important to return so that the task callback isn't called twice
+	//             }
+	//             console.log('Youtube check finished');
+	//             callback();
+	//         });
+	//     },
+	//     function(callback) {
+	//          //remove all generes that set to zero
+	// 	    for(var i = MP.data.length - 1; i >= 0; i--){
+	// 			if(MP.data[i].counter == 0){
+	// 				MP.data.splice(i, 1);
+	// 			}else{
+	// 				// MP.data[i].counter = math.round(,);
+	// 			}	
+	// 	    }
+	// 	    console.log('remove check finished');
+	// 	    MP.printAll();
+	// 	    callback();
+	//     }
+	// ], function(err) {
+	//     if (err) {
+	//         throw err; //Or pass it on to an outer callback, log it or whatever suits your needs
+	//     }
+	//     console.log('Youtube is done now');
+	//     res.status(200).json(MP.data);
+	// });
 			
-	}else if(fb_access_token != "null" && yt_access_token == "null" ){
-			Facebook(fb_access_token, function(err) {
-	            if (err) {
-	            	res.status(200).json("error");	
-	                return; //It's important to return so that the task callback isn't called twice
-	            }
-	            console.log('Facebook check finished');
-	            res.status(200).json(MP);
-	        });
-	}else if(fb_access_token == "null" && yt_access_token == "null" ){
-		res.status(200).json("no access tokens!");
-	}
+	// }else if(fb_access_token != "null" && yt_access_token == "null" ){
+	// 		Facebook(fb_access_token, function(err) {
+	//             if (err) {
+	//             	res.status(200).json("error");	
+	//                 return; //It's important to return so that the task callback isn't called twice
+	//             }
+	//             console.log('Facebook check finished');
+	//             res.status(200).json(MP);
+	//         });
+	// }else if(fb_access_token == "null" && yt_access_token == "null" ){
+	// 	res.status(200).json("no access tokens!");
+	// }
 }
 YouTube = function(yt_access_token, callback){
 	request("https://www.googleapis.com/youtube/v3/activities?part=snippet&home=true&maxResults=50&key=" + youtubeAPI_KEY + "&access_token=" + yt_access_token, function(error, response, body) {
@@ -275,7 +289,7 @@ YouTube = function(yt_access_token, callback){
 							for(var i = 0 ; i < tagsSize ; i++){
 								for(var j = 0; j < genresSize; j++) {
 									// look for a match between popular last.FM tags and our genres from db. the last condition checks that the artist is not already in the MP under the same genre
-								    if ((tags[i].name == MP.data[j].genre) && (tags[i].count > 10) && (MP.exists(artist.name,MP.data[j].genre) == false)) { 
+								    if ((tags[i].name == MP.data[j].genre) && (tags[i].count > 25) && (MP.exists(artist.name,MP.data[j].genre) == false)) { 
 								        MP.data[j].counter++;
 								        MP.total++;
 								        MP.data[j].artists.push(artist.name);
