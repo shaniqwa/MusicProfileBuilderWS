@@ -78,6 +78,7 @@ MP.prototype.calcPercent = function(){
 	var len = this.data.length;
 	for(var k = 0; k<len; k++){
 		this.data[k].percent = (this.data[k].counter / this.total) * 100;
+		this.data[k].percent = math.round(this.data[k].percent, 2);
 	}
 }
 MP.prototype.exists = function(artist,genre){
@@ -112,26 +113,25 @@ var MP = new MP();
 
 // }
 
-exports.getAllGenres = function() {
-	return genres;
-}
+// exports.getAllGenres = function() {
+// 	return genres;
+// }
 
-exports.getRelatedTo = function(genre){
-	var res = [];
-	for(i in genres){
-		if(genres[i].name == genre){
-			res.push(genres[i]);
-		}
-	}
-	return res;
-}
+// exports.getRelatedTo = function(genre){
+// 	var res = [];
+// 	for(i in genres){
+// 		if(genres[i].name == genre){
+// 			res.push(genres[i]);
+// 		}
+// 	}
+// 	return res;
+// }
 
 exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	MP.clearMP();	//clear MP object - prevent duplications because object is initialized outside this function
 	MP.total = 0;
 
-	// if(fb_access_token != "null" && yt_access_token != "null"){
-		async.waterfall([
+	async.waterfall([
 	    function(callback) {
 	    	GenreS.find({ category: { $exists: true } },function (err, docs) {
 				  if (err) {
@@ -187,8 +187,6 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 		    for(var i = MP.data.length - 1; i >= 0; i--){
 				if(MP.data[i].counter == 0){
 					MP.data.splice(i, 1);
-				}else{
-					// MP.data[i].counter = MP.data[i].counter.math.round(num * 100) / 100;
 				}	
 		    }
 		    console.log('remove check finished');
@@ -202,69 +200,7 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 	    console.log('Both Facebook and Youtube are done now');
 	    res.status(200).json(MP.data);
 	});
-	// }else if(fb_access_token == "null" && yt_access_token != "null" ){
-	// 	//ONLY YOUTUBE
-	// 			async.waterfall([
-	//     function(callback) {
-	//     	GenreS.find(function (err, docs) {
-	// 			  if (err) {
-	// 			  	callback(err);
-	// 			  	return;
-	// 			  }
-	// 			  //initialize array of Genre objects, all counters set to 0
-	// 				var len = docs.length;
-	// 				for(var i=0; i<len ; i++){
-	// 						var genre = new Genre(docs[i].name, 0)
-	// 					    MP.data.push(genre);
-	// 				}
-	// 			  console.log('DB load finished');
-	//               callback();
-	// 		});
 
-	//     },	
-	//     function(callback) {
-	//          YouTube(yt_access_token, function(err) {
-	//             if (err) {
-	//                 callback(err);
-	//                 return; //It's important to return so that the task callback isn't called twice
-	//             }
-	//             console.log('Youtube check finished');
-	//             callback();
-	//         });
-	//     },
-	//     function(callback) {
-	//          //remove all generes that set to zero
-	// 	    for(var i = MP.data.length - 1; i >= 0; i--){
-	// 			if(MP.data[i].counter == 0){
-	// 				MP.data.splice(i, 1);
-	// 			}else{
-	// 				// MP.data[i].counter = math.round(,);
-	// 			}	
-	// 	    }
-	// 	    console.log('remove check finished');
-	// 	    MP.printAll();
-	// 	    callback();
-	//     }
-	// ], function(err) {
-	//     if (err) {
-	//         throw err; //Or pass it on to an outer callback, log it or whatever suits your needs
-	//     }
-	//     console.log('Youtube is done now');
-	//     res.status(200).json(MP.data);
-	// });
-			
-	// }else if(fb_access_token != "null" && yt_access_token == "null" ){
-	// 		Facebook(fb_access_token, function(err) {
-	//             if (err) {
-	//             	res.status(200).json("error");	
-	//                 return; //It's important to return so that the task callback isn't called twice
-	//             }
-	//             console.log('Facebook check finished');
-	//             res.status(200).json(MP);
-	//         });
-	// }else if(fb_access_token == "null" && yt_access_token == "null" ){
-	// 	res.status(200).json("no access tokens!");
-	// }
 }
 YouTube = function(yt_access_token, callback){
 	request("https://www.googleapis.com/youtube/v3/activities?part=snippet&home=true&maxResults=50&key=" + youtubeAPI_KEY + "&access_token=" + yt_access_token, function(error, response, body) {
