@@ -140,7 +140,6 @@ exports.getMP = function(req, res, fb_access_token,yt_access_token) {
 				  }
 				  //initialize array of Genre objects, all counters set to 0
 					var len = docs.length;
-					console.log(docs[0].category);
 					for(var i=0; i<len ; i++){
 							var genre = new Genre(docs[i].name, docs[i].category, 0);
 						    MP.data.push(genre);
@@ -265,7 +264,7 @@ YouTube = function(yt_access_token, callback){
 				callback();
 			}
 		}else{
-			console.log("youtube retuered: " , response.statusCode, " error msg: ", error);
+			console.log("youtube retuered: " , response.statusCode, " error msg: ", response.body);
 		 	callback(error);
 		}
 	});
@@ -276,6 +275,10 @@ Facebook = function(fb_access_token, callback){
 		if (!error && response.statusCode == 200) {
 		    var FB_MP = JSON.parse(body);
 		    var data = FB_MP["data"];
+		    if(data.length == 0){
+		    	console.log("no results from facebook: " + data);
+		    	callback();
+		    }
 
 		    // create a queue object. the task is requests to last FM and update the MP accordingly
 			var q = async.queue(function (artist, callback) {
